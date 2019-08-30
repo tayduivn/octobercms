@@ -1,0 +1,708 @@
+1567136305a:2:{i:0;O:8:"stdClass":23:{s:2:"id";i:134;s:7:"user_id";i:1;s:5:"title";s:86:"Quản lý trang chủ một cách hiệu quả nhất trên phần mềm CloudPro CRM";s:4:"slug";s:67:"quan-ly-trang-chu-mot-cach-hieu-qua-nhat-tren-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:8360:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1DVzNQhEg5YdS2qZFsGtYLkUbfTcuLVh7/preview" width="700" height="480"></iframe></span>
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Tại trang chủ, các Dashboard (một dạng giao diện kiểu biểu đồ hoặc dạng danh sách) được gom nhóm theo từng Tab, giúp người dùng xem dữ liệu một cách trực quan, nhanh chóng.</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Ngoài ra người dùng cũng có thể có những thao tác nhanh trên trang chủ như: xem báo cáo, xem lịch làm việc, tạo cuộc hẹn, tạo cuộc gọi, tạo hồ sơ khách hàng ...</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Các Dashboard, Tab có thể thêm, bớt tùy theo nhu cầu sử dụng thông tin của người dùng (hoặc theo từng vai trò người dùng).</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết này&nbsp;</em></strong><em><strong style="color: #A90702;">OnlineCRM</strong></em><strong><em>&nbsp;sẽ hướng dẫn bạn các thao tác với Dashboard:</em></strong></p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Quản lý Dashboard</u></p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Thêm tiện ích</u></p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Di chuyển tiện ích</u></p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Xóa tiện ích</u></p>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: justify;"><u>Ví dụ 1:</u> Các Dashboard như: báo cáo tổng hợp hoạt động, công việc, lịch sử thay đổi dữ liệu, phân tích đầu mối, phân tích doanh số của công ty, vụ việc phát sinh ...</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Quản lý Dashboard</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Để thêm các tiện ích vào Dashboard trước tiên bạn cần tạo các Tab Dashboard để chứa tiện ích. Mặc định tại Trang chủ sẽ có một tab được tạo sẵn là My Dashboard, tuy nhiên bạn vân có thể thêm tab mới với các thao tác sau:</p>
+
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Tại màn hình <strong>Trang chủ</strong>, click &nbsp;<strong>Xem thêm&nbsp;</strong>và chọn <strong>Thêm Tab</strong></p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358581358.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr"><strong><u>Bước 2:</u></strong> Điền tên của Tab mà bạn muốn thêm và click <strong>"Lưu"</strong></p>
+
+<p dir="ltr">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358646593.png" style="width: 492px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Tên tab có độ dài tối đa là 30 ký tự.</p>
+
+<p dir="ltr">Khi bạn tạo Tab Dashboard mới mặc định sẽ không có thông tin gì, để có thông tin hiển thị bạn cần <a href="https://docs.google.com/document/d/1OKsojlhikA52AY5C1RHFWF6-7SH9BdAbwCTaAXqYiKA/edit#bookmark=id.gvsurs4j3qh7">thêm tiện ích</a> mới vào Dashboard.</p>
+
+<p dir="ltr">
+	<br>
+</p>
+
+<h4 dir="ltr" style="color: #F17029;"><strong>2. Thêm tiện ích</strong></h4>
+
+<p dir="ltr">Để thêm mới các tiện ích bạn thực hiện các thao tác sau:</p>
+
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Tại màn hình <strong>Home</strong>, click vào <strong>“Thêm tiện ích”</strong></p>
+
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359841824.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: left;"><strong><u>Bước 2:</u>&nbsp;</strong>Lựa chọn tiện ích muốn đưa ra màn hình <strong>Home&nbsp;</strong>trong danh sách</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358879031.png" style="width: 300px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: left;"><strong><u>Bước 3:</u></strong> Kết quả sau khi đưa tiện ích ra màn hình <strong>Home</strong></p>
+
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358955631.png" style="width: 427px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;">Bạn có thể tạo nhiều Tab Dashboard khác nhau, mỗi tab có thể thêm nhiều tiện ích khác nhau.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565408448166.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4 dir="ltr" style="text-align: left; color:#F17029;"><strong>3. Di chuyển tiện ích</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong><strong>&nbsp;</strong>Tại màn hình Home, lựa chọn tiện ích muốn di chuyển, giữ chuột và di chuyển đến điểm muốn thay đổi</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359283418.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Kết quả sau khi di chuyển</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359496812.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4 style="text-align: left; color:#F17029;"><strong>4. Xóa tiện ích</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong><strong>&nbsp;</strong>Lựa chọn tiện ích muốn xóa tại màn hình <strong>Home</strong>, sau đó click vào dấu (x)</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359537248.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Click <strong>“Yes”</strong> để xác nhận việc xóa tiện ích</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565408918323.png" style="width: 492px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:8217:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1DVzNQhEg5YdS2qZFsGtYLkUbfTcuLVh7/preview" width="700" height="480"></iframe></span>
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Tại trang chủ, các Dashboard (một dạng giao diện kiểu biểu đồ hoặc dạng danh sách) được gom nhóm theo từng Tab, giúp người dùng xem dữ liệu một cách trực quan, nhanh chóng.</em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Ngoài ra người dùng cũng có thể có những thao tác nhanh trên trang chủ như: xem báo cáo, xem lịch làm việc, tạo cuộc hẹn, tạo cuộc gọi, tạo hồ sơ khách hàng ...</em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Các Dashboard, Tab có thể thêm, bớt tùy theo nhu cầu sử dụng thông tin của người dùng (hoặc theo từng vai trò người dùng).</em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết này </em></strong><em><strong style="color: #A90702;">OnlineCRM</strong></em><strong><em> sẽ hướng dẫn bạn các thao tác với Dashboard:</em></strong></p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Quản lý Dashboard</u></p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Thêm tiện ích</u></p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Di chuyển tiện ích</u></p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Xóa tiện ích</u></p>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: justify;"><u>Ví dụ 1:</u> Các Dashboard như: báo cáo tổng hợp hoạt động, công việc, lịch sử thay đổi dữ liệu, phân tích đầu mối, phân tích doanh số của công ty, vụ việc phát sinh ...</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Quản lý Dashboard</strong></h4>
+<p dir="ltr" style="text-align: justify;">Để thêm các tiện ích vào Dashboard trước tiên bạn cần tạo các Tab Dashboard để chứa tiện ích. Mặc định tại Trang chủ sẽ có một tab được tạo sẵn là My Dashboard, tuy nhiên bạn vân có thể thêm tab mới với các thao tác sau:</p>
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Tại màn hình <strong>Trang chủ</strong>, click  <strong>Xem thêm </strong>và chọn <strong>Thêm Tab</strong></p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358581358.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr"><strong><u>Bước 2:</u></strong> Điền tên của Tab mà bạn muốn thêm và click <strong>"Lưu"</strong></p>
+<p dir="ltr">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358646593.png" style="width: 492px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Tên tab có độ dài tối đa là 30 ký tự.</p>
+<p dir="ltr">Khi bạn tạo Tab Dashboard mới mặc định sẽ không có thông tin gì, để có thông tin hiển thị bạn cần <a href="https://docs.google.com/document/d/1OKsojlhikA52AY5C1RHFWF6-7SH9BdAbwCTaAXqYiKA/edit#bookmark=id.gvsurs4j3qh7">thêm tiện ích</a> mới vào Dashboard.</p>
+<p dir="ltr">
+    <br>
+</p>
+<h4 dir="ltr" style="color: #F17029;"><strong>2. Thêm tiện ích</strong></h4>
+<p dir="ltr">Để thêm mới các tiện ích bạn thực hiện các thao tác sau:</p>
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Tại màn hình <strong>Home</strong>, click vào <strong>“Thêm tiện ích”</strong></p>
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359841824.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: left;"><strong><u>Bước 2:</u> </strong>Lựa chọn tiện ích muốn đưa ra màn hình <strong>Home </strong>trong danh sách</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358879031.png" style="width: 300px;" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: left;"><strong><u>Bước 3:</u></strong> Kết quả sau khi đưa tiện ích ra màn hình <strong>Home</strong></p>
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566358955631.png" style="width: 427px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;">Bạn có thể tạo nhiều Tab Dashboard khác nhau, mỗi tab có thể thêm nhiều tiện ích khác nhau.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565408448166.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4 dir="ltr" style="text-align: left; color:#F17029;"><strong>3. Di chuyển tiện ích</strong></h4>
+<p><strong><u>Bước 1:</u></strong><strong> </strong>Tại màn hình Home, lựa chọn tiện ích muốn di chuyển, giữ chuột và di chuyển đến điểm muốn thay đổi</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359283418.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Kết quả sau khi di chuyển</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359496812.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4 style="text-align: left; color:#F17029;"><strong>4. Xóa tiện ích</strong></h4>
+<p><strong><u>Bước 1:</u></strong><strong> </strong>Lựa chọn tiện ích muốn xóa tại màn hình <strong>Home</strong>, sau đó click vào dấu (x)</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566359537248.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Click <strong>“Yes”</strong> để xác nhận việc xóa tiện ích</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565408918323.png" style="width: 492px;" class="fr-fic fr-dib" data-result="success"></p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 03:24:15";s:10:"updated_at";s:19:"2019-08-21 03:57:54";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:1;O:8:"stdClass":23:{s:2:"id";i:188;s:7:"user_id";i:1;s:5:"title";s:62:"Các thành phần chính trên trang chủ của CloudPro CRM";s:4:"slug";s:52:"cac-thanh-phan-chinh-tren-trang-chu-cua-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:12488:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trang chủ <strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong> CRM là nơi quản lý thông tin và diễn ra các hoạt động chính của phần mềm <strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong> CRM. Đây là nơi gần như bạn có thể thực hiện toàn bộ các chức năng của phần mềm <strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong> CRM.</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566293690555.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><strong>Tại đây, bạn có thể:</strong></p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Quản lý và thực hiện các chức năng của phần mềm CloudPro CRM.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Nhận thông tin cập nhật về các hoạt động và các nhắc nhở quan trọng tại mục thông báo.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Xem và phân tích các báo cáo thống kê về các hoạt động kinh doanh, hoạt động của nhân viên…</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Xem lịch làm việc và các công việc cần phải hoàn thành.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Cài đặt và quản lý hệ thống.</p>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: justify;"><strong>Cụ thể, trong bài viết này OnlineCRM sẽ giúp bạn các mục sau tại trang chủ:</strong></p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Thanh tìm kiếm</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Thanh truy cập nhanh</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Thông báo</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Lịch của tôi</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Báo cáo</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Công việc (Task)</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Dashboard</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Các menu quản trị</p>
+	</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<h4 dir="ltr" style="text-align: justify;"><strong style="color: #F17029;">1. Thanh tìm kiếm</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Không chỉ tại trang chủ mà tại bất cứ đâu trong phần mềm bạn đều sẽ thấy thanh tìm kiếm xuất hiện ở phía trên đầu. Thanh tìm kiếm này sẽ giúp bạn tìm kiếm tất cả các thông tin trên tất cả các modules của phần mềm. Bạn có thể tìm kiếm trên toàn bộ modules hoặc trên một modules cụ thể.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566293810860.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Thanh truy cập nhanh</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Thanh truy cập nhanh nằm ở đầu phía góc phải trang chủ với những biểu tượng đại diện cho từng chức năng.&nbsp;</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566293922734.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;">Ngoài những tính năng có sẵn mặc định là: Cài đặt, quản lý tài khoản, công việc (task), báo cáo, lịch, thông báo (Notifications) thì còn có một biểu tượng dấu cộng<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837446160.jpeg" width="23" height="20" class="fr-fic fr-dii" data-result="success">giúp bạn có thể tạo nhanh các thông tin, dữ liệu mà không cần phải mất thời gian truy cập vào từng tính năng cụ thể.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837434496.jpeg" width="529" data-result="success" class="fr-fic fr-dib" style="width: 479px; height: 367.626px;"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Thông báo</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Biểu tượng hình quả chuông<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837661490.jpeg" width="22" height="25" data-result="success" class="fr-fic fr-dib">tại thanh truy cập nhanh là nơi hiển thị các thông báo của phần mềm. Có 3 loại thông báo sẽ được hiển thị tại đây:</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Hoạt động, nhắc nhở: Thông báo về các hoạt động đang diễn ra trên phần mềm và các nhắc nhở quan trọng.</p>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837664046.jpeg" width="416" height="397" data-result="success" class="fr-fic fr-dib">
+	<br>
+</p>
+
+<p dir="ltr">
+	<br>
+</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Cảnh báo: Cảnh báo về các hoạt động sắp đến hạn hoặc quá hạn.</p>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837660943.jpeg" width="418" height="340" data-result="success" class="fr-fic fr-dib">
+	<br>
+</p>
+
+<p dir="ltr">
+	<br>
+</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Sinh nhật: Nhắc nhở các sinh nhật trong hôm nay hoặc sắp đến.</p>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837660479.jpeg" width="421" height="200" data-result="success" class="fr-fic fr-dib"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">4. Lịch của tôi</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Biểu tượng hình quyển lịch<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837927650.jpeg" width="19" height="20" data-result="success" class="fr-fic fr-dib">tại thanh truy cập nhanh sẽ giúp bạn truy cập vào tính năng lịch của tôi. Tại đây bạn có thể thêm mới các hoạt động, các công việc cũng như là xem các hoạt động, các công việc của mình theo tháng, tuần hoặc ngày.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566294633170.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">5. Báo cáo</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Biểu tượng<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837972739.jpeg" width="27" height="28" data-result="success" class="fr-fic fr-dib">này trên thanh truy cập nhanh sẽ giúp bạn truy cập ngay vào tính năng báo cáo, nơi mà bạn có thể tạo mới và xem lại các báo cáo của mình.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566294326581.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success">&nbsp;</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">6. Công việc (Task)</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Còn biểu tượng này&nbsp;<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565838153589.jpeg" width="22" height="20" data-result="success" class="fr-fic fr-dib">trên thanh truy cập nhanh sẽ giúp bạn xem được những công việc (task) phải làm trong ngày hay trong tuần theo mức độ ưu tiên khác nhau.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566297223340.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">7. Dashboard</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Dashboard là nơi giúp bạn có một cái nhìn tổng quan nhất về hoạt động của phần mềm, hoạt động của nhân viên cũng như là hoạt động kinh doanh của doanh nghiệp mình. Bạn hoàn toàn có thể tự tạo nhiều Dashboard chứa những dữ liệu, thống kê, báo cáo khác nhau để dễ dàng theo dõi và khái quát được mọi hoạt động.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565838210138.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" data-result="success" class="fr-fic fr-dib"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">8. Các menu quản trị</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Tại trang chủ phần mềm, bạn có thể truy cập vào tất cả các tính năng của phần mềm cũng như thiết lập cấu hình phần mềm khi bạn bấm vào dấu&nbsp;<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565839818656.jpeg" width="23" height="21" data-result="success" class="fr-fic fr-dib">&nbsp;để hiện ra menu quản trị.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565839839235.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:12420:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trang chủ <strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong> CRM là nơi quản lý thông tin và diễn ra các hoạt động chính của phần mềm <strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong> CRM. Đây là nơi gần như bạn có thể thực hiện toàn bộ các chức năng của phần mềm <strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong> CRM.</em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566293690555.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><strong>Tại đây, bạn có thể:</strong></p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Quản lý và thực hiện các chức năng của phần mềm CloudPro CRM.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Nhận thông tin cập nhật về các hoạt động và các nhắc nhở quan trọng tại mục thông báo.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Xem và phân tích các báo cáo thống kê về các hoạt động kinh doanh, hoạt động của nhân viên…</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Xem lịch làm việc và các công việc cần phải hoàn thành.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Cài đặt và quản lý hệ thống.</p>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: justify;"><strong>Cụ thể, trong bài viết này OnlineCRM sẽ giúp bạn các mục sau tại trang chủ:</strong></p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Thanh tìm kiếm</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Thanh truy cập nhanh</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Thông báo</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Lịch của tôi</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Báo cáo</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Công việc (Task)</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Dashboard</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Các menu quản trị</p>
+    </li>
+</ul>
+<p>
+    <br>
+</p>
+<h4 dir="ltr" style="text-align: justify;"><strong style="color: #F17029;">1. Thanh tìm kiếm</strong></h4>
+<p dir="ltr" style="text-align: justify;">Không chỉ tại trang chủ mà tại bất cứ đâu trong phần mềm bạn đều sẽ thấy thanh tìm kiếm xuất hiện ở phía trên đầu. Thanh tìm kiếm này sẽ giúp bạn tìm kiếm tất cả các thông tin trên tất cả các modules của phần mềm. Bạn có thể tìm kiếm trên toàn bộ modules hoặc trên một modules cụ thể.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566293810860.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Thanh truy cập nhanh</strong></h4>
+<p dir="ltr" style="text-align: justify;">Thanh truy cập nhanh nằm ở đầu phía góc phải trang chủ với những biểu tượng đại diện cho từng chức năng. </p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566293922734.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;">Ngoài những tính năng có sẵn mặc định là: Cài đặt, quản lý tài khoản, công việc (task), báo cáo, lịch, thông báo (Notifications) thì còn có một biểu tượng dấu cộng<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837446160.jpeg" width="23" height="20" class="fr-fic fr-dii" data-result="success">giúp bạn có thể tạo nhanh các thông tin, dữ liệu mà không cần phải mất thời gian truy cập vào từng tính năng cụ thể.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837434496.jpeg" width="529" data-result="success" class="fr-fic fr-dib" style="width: 479px; height: 367.626px;"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Thông báo</strong></h4>
+<p dir="ltr" style="text-align: justify;">Biểu tượng hình quả chuông<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837661490.jpeg" width="22" height="25" data-result="success" class="fr-fic fr-dib">tại thanh truy cập nhanh là nơi hiển thị các thông báo của phần mềm. Có 3 loại thông báo sẽ được hiển thị tại đây:</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Hoạt động, nhắc nhở: Thông báo về các hoạt động đang diễn ra trên phần mềm và các nhắc nhở quan trọng.</p>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837664046.jpeg" width="416" height="397" data-result="success" class="fr-fic fr-dib">
+    <br>
+</p>
+<p dir="ltr">
+    <br>
+</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Cảnh báo: Cảnh báo về các hoạt động sắp đến hạn hoặc quá hạn.</p>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837660943.jpeg" width="418" height="340" data-result="success" class="fr-fic fr-dib">
+    <br>
+</p>
+<p dir="ltr">
+    <br>
+</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Sinh nhật: Nhắc nhở các sinh nhật trong hôm nay hoặc sắp đến.</p>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837660479.jpeg" width="421" height="200" data-result="success" class="fr-fic fr-dib"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">4. Lịch của tôi</strong></h4>
+<p dir="ltr" style="text-align: justify;">Biểu tượng hình quyển lịch<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837927650.jpeg" width="19" height="20" data-result="success" class="fr-fic fr-dib">tại thanh truy cập nhanh sẽ giúp bạn truy cập vào tính năng lịch của tôi. Tại đây bạn có thể thêm mới các hoạt động, các công việc cũng như là xem các hoạt động, các công việc của mình theo tháng, tuần hoặc ngày.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566294633170.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">5. Báo cáo</strong></h4>
+<p dir="ltr" style="text-align: justify;">Biểu tượng<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565837972739.jpeg" width="27" height="28" data-result="success" class="fr-fic fr-dib">này trên thanh truy cập nhanh sẽ giúp bạn truy cập ngay vào tính năng báo cáo, nơi mà bạn có thể tạo mới và xem lại các báo cáo của mình.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566294326581.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"> </p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">6. Công việc (Task)</strong></h4>
+<p dir="ltr" style="text-align: justify;">Còn biểu tượng này <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565838153589.jpeg" width="22" height="20" data-result="success" class="fr-fic fr-dib">trên thanh truy cập nhanh sẽ giúp bạn xem được những công việc (task) phải làm trong ngày hay trong tuần theo mức độ ưu tiên khác nhau.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566297223340.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">7. Dashboard</strong></h4>
+<p dir="ltr" style="text-align: justify;">Dashboard là nơi giúp bạn có một cái nhìn tổng quan nhất về hoạt động của phần mềm, hoạt động của nhân viên cũng như là hoạt động kinh doanh của doanh nghiệp mình. Bạn hoàn toàn có thể tự tạo nhiều Dashboard chứa những dữ liệu, thống kê, báo cáo khác nhau để dễ dàng theo dõi và khái quát được mọi hoạt động.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565838210138.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" data-result="success" class="fr-fic fr-dib"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">8. Các menu quản trị</strong></h4>
+<p dir="ltr" style="text-align: justify;">Tại trang chủ phần mềm, bạn có thể truy cập vào tất cả các tính năng của phần mềm cũng như thiết lập cấu hình phần mềm khi bạn bấm vào dấu <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565839818656.jpeg" width="23" height="21" data-result="success" class="fr-fic fr-dib"> để hiện ra menu quản trị.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565839839235.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-22 02:13:18";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-15 02:40:18";s:10:"updated_at";s:19:"2019-08-22 02:52:47";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}}

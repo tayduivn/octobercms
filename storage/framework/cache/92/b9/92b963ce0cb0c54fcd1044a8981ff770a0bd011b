@@ -1,0 +1,590 @@
+1567146217a:2:{i:0;O:8:"stdClass":23:{s:2:"id";i:135;s:7:"user_id";i:1;s:5:"title";s:80:"Cách CSKH hiệu quả với tính năng lịch trên phần mềm CloudPro CRM";s:4:"slug";s:64:"cach-cskh-hieu-qua-voi-tinh-nang-lich-tren-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:6726:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Một ngày điển hình của một nhân viên bán hàng bao gồm việc quản lý và theo dõi các hoạt động trong ngày hoặc dự kiến được thực hiện vào ngày sau. Bạn có thể làm tất cả những gì trên chức năng lịch làm việc của phần mềm CRM.</em></strong></p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong style="color: #A90702;font-size: 20px;"><em><u>Bạn thấy được gì trong Lịch làm việc?</u></em></strong></p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;"><strong>&nbsp;</strong>Bạn sẽ xem được toàn bộ các hoạt động do bạn lập và được người khác chia sẻ:
+
+			<ul>
+				<li style="text-align: justify;">Sự kiện</li>
+				<li style="text-align: justify;">Danh sách công việc</li>
+				<li style="text-align: justify;">Cơ hội (ngày kết thúc dự kiến)</li>
+				<li style="text-align: justify;">Ngày kết thúc hỗ trợ (ngày kết thúc hỗ trợ cho người liên hệ)</li>
+				<li style="text-align: justify;">Ngày sinh nhật</li>
+				<li style="text-align: justify;">Hóa đơn (ngày đến hạn thanh toán)</li>
+			</ul>
+		</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;"><strong>&nbsp;</strong>Bạn có thể xem lịch làm việc theo các chế độ:
+
+			<ul>
+				<li style="text-align: justify;">Theo tháng (các hoạt động được lên lịch theo tháng hiện tại)</li>
+				<li style="text-align: justify;">Theo tuần (các hoạt động được lên lịch theo tuần hiện tại)</li>
+				<li style="text-align: justify;">Theo ngày (các hoạt động được lên lịch theo ngày hiện tại)</li>
+			</ul>
+		</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565409905622.png" style="width: 720px; height:35px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4 style="text-align: left; color:#F17029;"><strong>Tạo hoạt động CSKH</strong></h4>
+
+<p><strong><u>Bước 1:</u>&nbsp;</strong> Click vào icon&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446137363.png" style="width: 23px;" class="fr-fic fr-dib" data-result="success">&nbsp;để tiến hành tạo các hoạt động chăm sóc</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445297579.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Click vào các Tab (Tháng/Tuần/Ngày/Sắp tới) tùy theo nhu cầu tạo lịch làm việc của người dùng.</p>
+
+<p><u>Ví dụ:</u> Tạo lịch làm việc trong ngày hiện tại.</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445524964.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u><strong>Bước 3:</strong></u> Tiến hành tạo hoạt động chăm sóc bằng các cách:</p>
+
+<p style="text-align: left;"><u>Cách 1:</u> Click vào Button <strong>“Thêm hoạt động”</strong> hoặc <strong>“Thêm công việc”</strong> tùy vào mục đích</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565410224257.png" style="width: 501px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: left;"><u>Cách 2:</u> Double Click chuột vào thời gian cụ thể trên lịch làm việc để tiến hành tạo lịch làm việc.</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445648960.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Nhập thông tin hoạt động cần tạo, sau đó click <strong>“Lưu”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445723461.png" style="width: 489px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u><strong>Bước 5</strong></u><strong>:</strong> Hệ thống hiển thị thông tin hoạt động vừa được tạo thành công trên lịch làm việc</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445771877.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 6:</u></strong> Bạn có thể Click vào Tab tháng để xem chi tiết các công việc</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445823904.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445893408.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:6745:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Một ngày điển hình của một nhân viên bán hàng bao gồm việc quản lý và theo dõi các hoạt động trong ngày hoặc dự kiến được thực hiện vào ngày sau. Bạn có thể làm tất cả những gì trên chức năng lịch làm việc của phần mềm CRM.</em></strong></p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong style="color: #A90702;font-size: 20px;"><em><u>Bạn thấy được gì trong Lịch làm việc?</u></em></strong></p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">
+<strong> </strong>Bạn sẽ xem được toàn bộ các hoạt động do bạn lập và được người khác chia sẻ:
+
+            <ul>
+                <li style="text-align: justify;">Sự kiện</li>
+                <li style="text-align: justify;">Danh sách công việc</li>
+                <li style="text-align: justify;">Cơ hội (ngày kết thúc dự kiến)</li>
+                <li style="text-align: justify;">Ngày kết thúc hỗ trợ (ngày kết thúc hỗ trợ cho người liên hệ)</li>
+                <li style="text-align: justify;">Ngày sinh nhật</li>
+                <li style="text-align: justify;">Hóa đơn (ngày đến hạn thanh toán)</li>
+            </ul>
+        </li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">
+<strong> </strong>Bạn có thể xem lịch làm việc theo các chế độ:
+
+            <ul>
+                <li style="text-align: justify;">Theo tháng (các hoạt động được lên lịch theo tháng hiện tại)</li>
+                <li style="text-align: justify;">Theo tuần (các hoạt động được lên lịch theo tuần hiện tại)</li>
+                <li style="text-align: justify;">Theo ngày (các hoạt động được lên lịch theo ngày hiện tại)</li>
+            </ul>
+        </li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565409905622.png" style="width: 720px; height:35px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4 style="text-align: left; color:#F17029;"><strong>Tạo hoạt động CSKH</strong></h4>
+<p><strong><u>Bước 1:</u> </strong> Click vào icon <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446137363.png" style="width: 23px;" class="fr-fic fr-dib" data-result="success"> để tiến hành tạo các hoạt động chăm sóc</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445297579.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Click vào các Tab (Tháng/Tuần/Ngày/Sắp tới) tùy theo nhu cầu tạo lịch làm việc của người dùng.</p>
+<p><u>Ví dụ:</u> Tạo lịch làm việc trong ngày hiện tại.</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445524964.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><u><strong>Bước 3:</strong></u> Tiến hành tạo hoạt động chăm sóc bằng các cách:</p>
+<p style="text-align: left;"><u>Cách 1:</u> Click vào Button <strong>“Thêm hoạt động”</strong> hoặc <strong>“Thêm công việc”</strong> tùy vào mục đích</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565410224257.png" style="width: 501px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p style="text-align: left;"><u>Cách 2:</u> Double Click chuột vào thời gian cụ thể trên lịch làm việc để tiến hành tạo lịch làm việc.</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445648960.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Nhập thông tin hoạt động cần tạo, sau đó click <strong>“Lưu”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445723461.png" style="width: 489px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;"><u><strong>Bước 5</strong></u><strong>:</strong> Hệ thống hiển thị thông tin hoạt động vừa được tạo thành công trên lịch làm việc</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445771877.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 6:</u></strong> Bạn có thể Click vào Tab tháng để xem chi tiết các công việc</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445823904.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566445893408.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 04:17:12";s:10:"updated_at";s:19:"2019-08-22 03:56:44";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:1;O:8:"stdClass":23:{s:2:"id";i:136;s:7:"user_id";i:1;s:5:"title";s:72:"Quản lý lịch làm việc dễ dàng với phần mềm CloudPro CRM";s:4:"slug";s:50:"quan-ly-lich-lam-de-dang-voi-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:9071:"<p style="text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1DML7oiXp7Gj9YhoVaoDhML8IVnbX6Jtl/preview" width="700" height="400"></iframe></span>
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Để thực hiện các công việc một cách thuận lợi, bạn cần có một lịch làm việc hợp lý. Với&nbsp;</em></strong><em><strong style="color:#057BC3;">Cloud</strong></em><em><strong style="color:#F17029;">Pro</strong></em><strong><em>&nbsp;CRM, bạn có thể tạo và quản lý lịch làm việc một cách dễ dàng.&nbsp;</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Bài viết dưới đây, chúng tôi sẽ hướng dẫn các bạn các thao tác sau:</em></strong></p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Tạo nhắc nhở</u></p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Lặp lại công việc</u></p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr"><u>Lời mời</u></p>
+	</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color:#F17029;">1. Tạo nhắc nhở</strong></h4>
+
+<p style="text-align: center;"><strong style="color:#F17029;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565412270117.png" data-result="success" style="width:720px;" class="fr-fic fr-dib"> <br></strong></p>
+
+<p style="text-align: justify;">Bạn phải xử lý rất nhiều công viêc kinh doanh mỗi ngày, do đó bạn cần thiết lập một nhắc nhở để không bị thất lạc trong hoạt động. Để thiết lập lời nhắc bạn thực hiện như sau:</p>
+
+<p><u style="box-sizing: border-box;"><strong>Bước 1:</strong></u><strong style="color:#F17029;"><span color="" style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, ;">&nbsp;</span></strong><span color="" style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, ;">Tiến hành chỉnh sửa thông tin công việc muốn thực hiện việc nhắc nhở</span></p>
+
+<h4 style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446627947.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</h4>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Click button <strong>“Hiển thị toàn bộ thông tin”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446653783.png" style="width: 488px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;"><u><br></u></p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u>&nbsp;</strong>Tại mục Thông tin nhắc nhở, Tick chọn <strong>“Gửi email thông báo trước"</strong>.</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565411441973.png" style="width: 480px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 4:</u></strong> Lựa chọn thời gian nhận Email thông báo, sau đó click <strong>"Lưu"</strong> để hoàn tất</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565411463865.png" style="width: 482px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color:#F17029;">2. Lặp lại công việc</strong></h4>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565412402175.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p>Có những công việc bạn sẽ phải lặp lại nhiều lần</p>
+
+<p><u>Ví dụ:</u> Bạn cần tổ chức sự kiện vào mỗi tháng. Do đó bạn sẽ cần thiết lập chức năng “Lập lại” trong lịch làm việc.</p>
+
+<p>
+	<br>
+</p>
+
+<p>Để thiết lập chức năng này bạn làm như sau:</p>
+
+<p><strong><u>Bước 1:</u></strong> Tiến hành chỉnh sửa thông tin công việc muốn thực hiện việc lặp lại</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446715616.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click button <strong>“Hiển thị toàn bộ thông tin”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446748257.png" style="width: 508px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Tại mục Thông tin định kỳ, tick chọn <strong>“Lặp lại”</strong>.</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565412165120.png" style="width: 503px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Lựa chọn thời gian lặp lại cho công việc. Ví dụ theo tháng</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446797913.png" style="width: 582px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li>Trong ví dụ bạn sẽ:
+
+			<ul>
+				<li>&nbsp; Lựa chọn thời gian lặp lại cho công việc đó vào mỗi tháng.</li>
+				<li>&nbsp; Lặp lại công việc cho đến hết ngày 31-12-2018.</li>
+				<li>&nbsp; Và lặp lại 1 ngày trong tháng.</li>
+			</ul>
+		</li>
+	</ul>
+</blockquote>
+
+<p><strong><u>Bước 5:</u></strong> Click <strong>“Lưu”</strong> để hoàn tất</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color:#F17029;">3. Lời mời</strong></h4>
+
+<p style="text-align: justify;">Bạn muốn đồng nghiệp của mình tham dự công việc của bạn, bạn sẽ tiến hành gửi lời mời. hệ thống sẽ tự động thông báo qua email cho người đó.</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p>Để thực hiện bạn làm như sau:</p>
+
+<p><strong><u>Bước 1:</u></strong> Tiến hành chỉnh sửa thông tin công việc muốn thực hiện việc gửi lời mời tham dự</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446825768.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click button <strong>“Hiển thị toàn bộ thông tin”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446846991.png" style="width: 438px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u>&nbsp;</strong>Tại mục Người dùng, lựa chọn người muốn mời tham gia công việc</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446893561.png" style="width: 426px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;"><u><br></u></p>
+
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Click <strong>"Lưu"</strong> để hoàn tất</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446949150.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr">
+	<br>
+</p>
+
+<p dir="ltr">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:8953:"<p style="text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1DML7oiXp7Gj9YhoVaoDhML8IVnbX6Jtl/preview" width="700" height="400"></iframe></span>
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Để thực hiện các công việc một cách thuận lợi, bạn cần có một lịch làm việc hợp lý. Với </em></strong><em><strong style="color:#057BC3;">Cloud</strong></em><em><strong style="color:#F17029;">Pro</strong></em><strong><em> CRM, bạn có thể tạo và quản lý lịch làm việc một cách dễ dàng. </em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Bài viết dưới đây, chúng tôi sẽ hướng dẫn các bạn các thao tác sau:</em></strong></p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Tạo nhắc nhở</u></p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Lặp lại công việc</u></p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr"><u>Lời mời</u></p>
+    </li>
+</ul>
+<p>
+    <br>
+</p>
+<h4><strong style="color:#F17029;">1. Tạo nhắc nhở</strong></h4>
+<p style="text-align: center;"><strong style="color:#F17029;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565412270117.png" data-result="success" style="width:720px;" class="fr-fic fr-dib"> <br></strong></p>
+<p style="text-align: justify;">Bạn phải xử lý rất nhiều công viêc kinh doanh mỗi ngày, do đó bạn cần thiết lập một nhắc nhở để không bị thất lạc trong hoạt động. Để thiết lập lời nhắc bạn thực hiện như sau:</p>
+<p><u style="box-sizing: border-box;"><strong>Bước 1:</strong></u><strong style="color:#F17029;"><span color="" style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, ;"> </span></strong><span color="" style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, ;">Tiến hành chỉnh sửa thông tin công việc muốn thực hiện việc nhắc nhở</span></p>
+<h4 style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446627947.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</h4>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Click button <strong>“Hiển thị toàn bộ thông tin”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446653783.png" style="width: 488px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;"><u><br></u></p>
+<p style="text-align: left;"><strong><u>Bước 3:</u> </strong>Tại mục Thông tin nhắc nhở, Tick chọn <strong>“Gửi email thông báo trước"</strong>.</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565411441973.png" style="width: 480px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 4:</u></strong> Lựa chọn thời gian nhận Email thông báo, sau đó click <strong>"Lưu"</strong> để hoàn tất</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565411463865.png" style="width: 482px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color:#F17029;">2. Lặp lại công việc</strong></h4>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565412402175.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></p>
+<p>Có những công việc bạn sẽ phải lặp lại nhiều lần</p>
+<p><u>Ví dụ:</u> Bạn cần tổ chức sự kiện vào mỗi tháng. Do đó bạn sẽ cần thiết lập chức năng “Lập lại” trong lịch làm việc.</p>
+<p>
+    <br>
+</p>
+<p>Để thiết lập chức năng này bạn làm như sau:</p>
+<p><strong><u>Bước 1:</u></strong> Tiến hành chỉnh sửa thông tin công việc muốn thực hiện việc lặp lại</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446715616.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click button <strong>“Hiển thị toàn bộ thông tin”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446748257.png" style="width: 508px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Tại mục Thông tin định kỳ, tick chọn <strong>“Lặp lại”</strong>.</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565412165120.png" style="width: 503px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Lựa chọn thời gian lặp lại cho công việc. Ví dụ theo tháng</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446797913.png" style="width: 582px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li>Trong ví dụ bạn sẽ:
+
+            <ul>
+                <li>  Lựa chọn thời gian lặp lại cho công việc đó vào mỗi tháng.</li>
+                <li>  Lặp lại công việc cho đến hết ngày 31-12-2018.</li>
+                <li>  Và lặp lại 1 ngày trong tháng.</li>
+            </ul>
+        </li>
+    </ul>
+</blockquote>
+<p><strong><u>Bước 5:</u></strong> Click <strong>“Lưu”</strong> để hoàn tất</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color:#F17029;">3. Lời mời</strong></h4>
+<p style="text-align: justify;">Bạn muốn đồng nghiệp của mình tham dự công việc của bạn, bạn sẽ tiến hành gửi lời mời. hệ thống sẽ tự động thông báo qua email cho người đó.</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p>Để thực hiện bạn làm như sau:</p>
+<p><strong><u>Bước 1:</u></strong> Tiến hành chỉnh sửa thông tin công việc muốn thực hiện việc gửi lời mời tham dự</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446825768.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click button <strong>“Hiển thị toàn bộ thông tin”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446846991.png" style="width: 438px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u> </strong>Tại mục Người dùng, lựa chọn người muốn mời tham gia công việc</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446893561.png" style="width: 426px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;"><u><br></u></p>
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Click <strong>"Lưu"</strong> để hoàn tất</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566446949150.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr">
+    <br>
+</p>
+<p dir="ltr">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 04:52:50";s:10:"updated_at";s:19:"2019-08-22 04:14:27";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}}

@@ -1,0 +1,145 @@
+1567150127a:1:{s:15:"test-mautic.htm";a:10:{s:8:"fileName";s:15:"test-mautic.htm";s:7:"content";s:2271:"title = "test mautic"
+url = "/test-mautic"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+==
+<html>
+<head>
+    <title>Lead Gen</title>
+</head>
+<body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '639804329872575',
+      xfbml      : true,
+      version    : 'v4.0'
+    });
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+function FBLogin(){
+    FB.getLoginStatus(function(response) {
+  if (response.status === 'connected') {
+    console.log('Logged in.');
+  }
+  else {
+    FB.login();
+  }
+});
+}
+function subapp(page_id,page_access_token,page_name){
+    console.log("Page ID: " + page_id);
+    document.getElementById(page_id).innerHTML = page_name + " <em> Subscribed!</em> page ID: "+page_id;
+    FB.api('/' + page_id + '/subscribed_apps',
+           'post',
+           {access_token: page_access_token},
+           function(response){
+            console.log(response);
+           })
+}
+// Only works after `FB.init` is called
+function myFacebookLogin() {
+  FB.login(function(response){
+      console.log("Successufuly Loged in ", response);
+      FB.api('/me/accounts',function(response){
+          console.log("Successfully retrieved pages", response);
+          var pages = response.data;
+          var ul = document.getElementById('list');
+          for(var i = 0, len = pages.length; i < len ; i++){
+              var page = pages[i];
+              var li = document.createElement('li');
+              var a = document.createElement('a');
+              a.href = "#";
+              a.id = page.id;
+              a.onclick = subapp.bind(this,page.id,page.access_token,page.name);
+              a.innerHTML = page.name;
+              li.appendChild(a);
+              ul.appendChild(li);
+          }
+      })
+  }, {scope: 'manage_pages'});
+}
+</script>
+<center>
+    <h2>Lead Gen</h2>
+    <button onclick="myFacebookLogin()">Login with Facebook</button>
+    <ul id="list"></ul>
+</center>
+</body>
+</html>";s:5:"mtime";i:1566890438;s:6:"markup";s:2165:"<html>
+<head>
+    <title>Lead Gen</title>
+</head>
+<body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '639804329872575',
+      xfbml      : true,
+      version    : 'v4.0'
+    });
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+function FBLogin(){
+    FB.getLoginStatus(function(response) {
+  if (response.status === 'connected') {
+    console.log('Logged in.');
+  }
+  else {
+    FB.login();
+  }
+});
+}
+function subapp(page_id,page_access_token,page_name){
+    console.log("Page ID: " + page_id);
+    document.getElementById(page_id).innerHTML = page_name + " <em> Subscribed!</em> page ID: "+page_id;
+    FB.api('/' + page_id + '/subscribed_apps',
+           'post',
+           {access_token: page_access_token},
+           function(response){
+            console.log(response);
+           })
+}
+// Only works after `FB.init` is called
+function myFacebookLogin() {
+  FB.login(function(response){
+      console.log("Successufuly Loged in ", response);
+      FB.api('/me/accounts',function(response){
+          console.log("Successfully retrieved pages", response);
+          var pages = response.data;
+          var ul = document.getElementById('list');
+          for(var i = 0, len = pages.length; i < len ; i++){
+              var page = pages[i];
+              var li = document.createElement('li');
+              var a = document.createElement('a');
+              a.href = "#";
+              a.id = page.id;
+              a.onclick = subapp.bind(this,page.id,page.access_token,page.name);
+              a.innerHTML = page.name;
+              li.appendChild(a);
+              ul.appendChild(li);
+          }
+      })
+  }, {scope: 'manage_pages'});
+}
+</script>
+<center>
+    <h2>Lead Gen</h2>
+    <button onclick="myFacebookLogin()">Login with Facebook</button>
+    <ul id="list"></ul>
+</center>
+</body>
+</html>";s:4:"code";N;s:5:"title";s:11:"test mautic";s:3:"url";s:12:"/test-mautic";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

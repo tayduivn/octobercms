@@ -1,0 +1,52 @@
+1567150132a:1:{s:12:"site/nav.htm";a:9:{s:8:"fileName";s:12:"site/nav.htm";s:7:"content";s:1055:"description = "Nav with Dropdown"
+
+[viewBag]
+
+[menu]
+start = "id-1"
+activeNode = "id-1"
+listItemClasses = "item"
+primaryClasses = "nav nav-pills"
+secondaryClasses = "dropdown-menu"
+numberOfLevels = 2
+
+[searchForm]
+resultPage = "searchResult"
+categoryFilter = 0
+==
+<?php
+function onStart()
+{
+$this->addCss('assets/css/dropdownMenu.css');
+}
+?>
+==
+{% component 'menu' %}
+
+{% set resultPage = searchForm.resultPage %}
+<div class="search-banner">
+    <div class="container">
+		<h2>{{ 'customersupportcenter'|_ }}<span class="d-none d-lg-inline-block">&nbsp;-&nbsp;</span><br class="d-block d-lg-none">Hotline: <a href=""><strong>1900 29 29 90</strong></a><small><i>&nbsp(ext 2)</i></small></h2>
+        <form  action="{{ resultPage|page }}" method="Get" class="search-form">
+            <input type="text" name="search" placeholder="{{ 'typetosearch'|_ }}" value="" required="" pattern=".{3,}" title="{{ 'pleasetypeatleast'|_ }}">
+            <button type="submit" class="btn-search">{{ 'search'|_ }}</button>
+        </form>
+    </div>
+</div>
+<!--/.Navbar-->
+";s:5:"mtime";i:1566890441;s:6:"markup";s:709:"{% component 'menu' %}
+
+{% set resultPage = searchForm.resultPage %}
+<div class="search-banner">
+    <div class="container">
+		<h2>{{ 'customersupportcenter'|_ }}<span class="d-none d-lg-inline-block">&nbsp;-&nbsp;</span><br class="d-block d-lg-none">Hotline: <a href=""><strong>1900 29 29 90</strong></a><small><i>&nbsp(ext 2)</i></small></h2>
+        <form  action="{{ resultPage|page }}" method="Get" class="search-form">
+            <input type="text" name="search" placeholder="{{ 'typetosearch'|_ }}" value="" required="" pattern=".{3,}" title="{{ 'pleasetypeatleast'|_ }}">
+            <button type="submit" class="btn-search">{{ 'search'|_ }}</button>
+        </form>
+    </div>
+</div>
+<!--/.Navbar-->";s:4:"code";s:68:"function onStart()
+{
+$this->addCss('assets/css/dropdownMenu.css');
+}";s:11:"description";s:17:"Nav with Dropdown";s:7:"viewBag";a:0:{}s:4:"menu";a:6:{s:5:"start";s:4:"id-1";s:10:"activeNode";s:4:"id-1";s:15:"listItemClasses";s:4:"item";s:14:"primaryClasses";s:13:"nav nav-pills";s:16:"secondaryClasses";s:13:"dropdown-menu";s:14:"numberOfLevels";s:1:"2";}s:10:"searchForm";a:2:{s:10:"resultPage";s:12:"searchResult";s:14:"categoryFilter";s:1:"0";}}}

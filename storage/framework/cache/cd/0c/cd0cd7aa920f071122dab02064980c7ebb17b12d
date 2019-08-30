@@ -1,0 +1,13 @@
+1567150126a:1:{s:16:"createticket.htm";a:13:{s:8:"fileName";s:16:"createticket.htm";s:7:"content";s:196:"title = "Gửi ticket"
+url = "/ticket"
+layout = "noSidebar"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[Form]
+
+[viewBag]
+localeTitle[en] = "Send ticket"
+==
+{% component 'Form' %}";s:5:"mtime";i:1566890439;s:6:"markup";s:22:"{% component 'Form' %}";s:4:"code";N;s:5:"title";s:12:"Gửi ticket";s:3:"url";s:7:"/ticket";s:6:"layout";s:9:"noSidebar";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:4:"Form";a:0:{}s:7:"viewBag";a:1:{s:11:"localeTitle";a:1:{s:2:"en";s:11:"Send ticket";}}}}

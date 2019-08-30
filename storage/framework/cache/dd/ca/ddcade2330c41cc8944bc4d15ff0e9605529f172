@@ -1,0 +1,45 @@
+1567150126a:1:{s:16:"guideCatalog.htm";a:17:{s:8:"fileName";s:16:"guideCatalog.htm";s:7:"content";s:827:"title = "Danh mục tài liệu"
+url = "/guide-catalog/:category/:page?"
+layout = "withSidebarCategory"
+is_hidden = 0
+child_of = "mey_no_parent"
+hide_crumb = 0
+remove_crumb_trail = 0
+crumb_disabled = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[blogCategories]
+slug = "{{ :category }}"
+displayEmpty = 0
+categoryPage = "guideCatalog"
+menu_id = 1
+
+[blogPosts]
+pageNumber = "{{ :page }}"
+categoryFilter = "{{ :category }}"
+postsPerPage = 10
+noPostsMessage = "No posts found"
+sortOrder = "published_at desc"
+categoryPage = "guideCatalog"
+postPage = "post"
+==
+<?php
+function onStart()
+{
+$this->addCss('assets/css/guideCatalog.css');
+}
+?>
+==
+{% set categories = blogCategories.categories %}
+{% set posts = blogPosts.posts %}
+
+{% partial 'blog/guideCatalog' %}
+{% partial 'blog/pagination' %}";s:5:"mtime";i:1566890439;s:6:"markup";s:153:"{% set categories = blogCategories.categories %}
+{% set posts = blogPosts.posts %}
+
+{% partial 'blog/guideCatalog' %}
+{% partial 'blog/pagination' %}";s:4:"code";s:71:"function onStart()
+{
+$this->addCss('assets/css/guideCatalog.css');
+}";s:5:"title";s:22:"Danh mục tài liệu";s:3:"url";s:31:"/guide-catalog/:category/:page?";s:6:"layout";s:19:"withSidebarCategory";s:9:"is_hidden";s:1:"0";s:8:"child_of";s:13:"mey_no_parent";s:10:"hide_crumb";s:1:"0";s:18:"remove_crumb_trail";s:1:"0";s:14:"crumb_disabled";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:14:"blogCategories";a:4:{s:4:"slug";s:15:"{{ :category }}";s:12:"displayEmpty";s:1:"0";s:12:"categoryPage";s:12:"guideCatalog";s:7:"menu_id";s:1:"1";}s:9:"blogPosts";a:7:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"categoryFilter";s:15:"{{ :category }}";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:17:"published_at desc";s:12:"categoryPage";s:12:"guideCatalog";s:8:"postPage";s:4:"post";}}}

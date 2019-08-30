@@ -1,0 +1,448 @@
+1567136305a:5:{i:0;O:8:"stdClass":23:{s:2:"id";i:151;s:7:"user_id";i:1;s:5:"title";s:56:"Quản lý sản phẩm bằng phần mềm CloudPro CRM";s:4:"slug";s:43:"quan-ly-san-pham-bang-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:3453:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Module Sản phẩm là nơi lưu trữ thông tin các mặt hàng mà công ty kinh doanh. Quản lý thông tin sản phẩm: tên, mã sản phẩm, nhà sản xuất, giá mua, giá bán, số lượng tồn kho …; báo giá liên quan, đơn hàng mua liên quan, yêu cầu hỗ trợ ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới sản phẩm</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Tại menu lựa chọn module<strong>&nbsp;“Sản phẩm”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362180196.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Click vào button <strong>“Thêm sản phẩm”</strong> tại màn hình danh sách</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362231187.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click<strong>&nbsp;“Lưu”&nbsp;</strong>để hoàn tất</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362376967.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Bạn phải để dấu check ở field <strong>“Hoạt động”</strong> thì sản phẩm mới xuất hiện trong danh sách khi tạo mới Báo giá, Đơn hàng, Hợp đồng …</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Kết quả sau khi tạo thành công Sản phẩm</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362416888.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Import sản phẩm</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:3373:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Module Sản phẩm là nơi lưu trữ thông tin các mặt hàng mà công ty kinh doanh. Quản lý thông tin sản phẩm: tên, mã sản phẩm, nhà sản xuất, giá mua, giá bán, số lượng tồn kho …; báo giá liên quan, đơn hàng mua liên quan, yêu cầu hỗ trợ ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới sản phẩm</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Tại menu lựa chọn module<strong> “Sản phẩm”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362180196.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Click vào button <strong>“Thêm sản phẩm”</strong> tại màn hình danh sách</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362231187.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình tạo mới, nhập đầy đủ các thông tin cần thiết, sau đó click<strong> “Lưu” </strong>để hoàn tất</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362376967.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Bạn phải để dấu check ở field <strong>“Hoạt động”</strong> thì sản phẩm mới xuất hiện trong danh sách khi tạo mới Báo giá, Đơn hàng, Hợp đồng …</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Kết quả sau khi tạo thành công Sản phẩm</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362416888.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Import sản phẩm</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 04:33:50";s:10:"updated_at";s:19:"2019-08-21 04:41:09";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:1;O:8:"stdClass":23:{s:2:"id";i:152;s:7:"user_id";i:1;s:5:"title";s:55:"Quản lý dịch vụ bằng phần mềm CloudPro CRM";s:4:"slug";s:42:"quan-ly-dich-vu-bang-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:2137:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Dịch vụ là hàng hóa có tính vô hình đi kèm trong quá trình bán hàng: dịch vụ vận chuyển, dịch vụ bảo hành, bảo trì, dịch vụ tư vấn ... .Module Dịch vụ sẽ quản lý các thông tin liên quan: tên dịch vụ, mã DV, giá bán, giá mua, đơn vị tính …; đơn hàng, hóa đơn, báo giá, yêu cầu hỗ trợ liên quan ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362578077.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới dịch vụ</strong></h4>
+
+<p>Tương tự như tạo sản phẩm, bạn có thể tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-mua-hang" rel="noopener noreferrer" target="_blank">Tạo mới sản phẩm</a> (mục 1)</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Import dịch vụ</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a>&nbsp;</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:2091:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Dịch vụ là hàng hóa có tính vô hình đi kèm trong quá trình bán hàng: dịch vụ vận chuyển, dịch vụ bảo hành, bảo trì, dịch vụ tư vấn ... .Module Dịch vụ sẽ quản lý các thông tin liên quan: tên dịch vụ, mã DV, giá bán, giá mua, đơn vị tính …; đơn hàng, hóa đơn, báo giá, yêu cầu hỗ trợ liên quan ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362578077.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới dịch vụ</strong></h4>
+<p>Tương tự như tạo sản phẩm, bạn có thể tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-mua-hang" rel="noopener noreferrer" target="_blank">Tạo mới sản phẩm</a> (mục 1)</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Import dịch vụ</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a> </p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 04:38:39";s:10:"updated_at";s:19:"2019-08-21 04:43:41";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:2;O:8:"stdClass":23:{s:2:"id";i:153;s:7:"user_id";i:1;s:5:"title";s:59:"Quản lý nhà cung cấp bằng phần mềm CloudPro CRM";s:4:"slug";s:47:"quan-ly-nha-cung-cap-bang-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:2001:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Nhà cung cấp là các công ty, tổ chức cung cấp các sản phẩm, dịch vụ cho công ty. Module Nhà cung cấp sẽ quản lý thông tin liên quan đến nhà cung cấp: tên, email, số điện thoại, sản phẩm dịch vụ cung cấp …; đơn hàng mua, người liên hệ …</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362703699.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới nhà cung cấp</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Import nhà cung cấp</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a>&nbsp;</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:1957:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Nhà cung cấp là các công ty, tổ chức cung cấp các sản phẩm, dịch vụ cho công ty. Module Nhà cung cấp sẽ quản lý thông tin liên quan đến nhà cung cấp: tên, email, số điện thoại, sản phẩm dịch vụ cung cấp …; đơn hàng mua, người liên hệ …</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362703699.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới nhà cung cấp</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Import nhà cung cấp</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a> </p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 04:47:45";s:10:"updated_at";s:19:"2019-08-21 04:45:21";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:3;O:8:"stdClass":23:{s:2:"id";i:154;s:7:"user_id";i:1;s:5:"title";s:60:"Quản lý đơn hàng mua (nhập hàng) với CloudPro CRM";s:4:"slug";s:47:"quan-ly-don-hang-mua-nhap-hang-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:2276:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Đơn hàng mua là biểu mẫu ghi nhận lại thỏa thuận mua hàng (sản phẩm, số lượng, đơn giá, thành tiền …) của nhà cung cấp với công ty. Module Đơn hàng sẽ quản lý các thông tin liên quan đến đơn hàng: &nbsp;mã đơn hàng, ngày đơn hàng, tình trạng đơn hàng, khách hàng, sản phẩm, số lượng, đơn giá, thành tiền ...; hóa đơn, tài liệu đính kèm ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><strong><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362806906.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></em></strong>
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới đơn hàng mua</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Import đơn hàng mua</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:2231:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Đơn hàng mua là biểu mẫu ghi nhận lại thỏa thuận mua hàng (sản phẩm, số lượng, đơn giá, thành tiền …) của nhà cung cấp với công ty. Module Đơn hàng sẽ quản lý các thông tin liên quan đến đơn hàng:  mã đơn hàng, ngày đơn hàng, tình trạng đơn hàng, khách hàng, sản phẩm, số lượng, đơn giá, thành tiền ...; hóa đơn, tài liệu đính kèm ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><strong><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362806906.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></em></strong>
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới đơn hàng mua</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Import đơn hàng mua</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 07:11:10";s:10:"updated_at";s:19:"2019-08-21 04:47:02";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:4;O:8:"stdClass":23:{s:2:"id";i:155;s:7:"user_id";i:1;s:5:"title";s:55:"Quản lý bảng giá bằng phần mềm CloudPro CRM";s:4:"slug";s:43:"quan-ly-bang-gia-bang-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:3413:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Bảng giá là biểu mẫu thể hiện giá bán các sản phẩm, dịch vụ của công ty theo thời điểm.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Một sản phẩm, dịch vụ có thể có nhiều giá bán khác nhau theo các bảng giá khác nhau trong cùng một thời điểm hoặc khác thời điểm (giá bán ngày thường, ngày lễ, giá bán cho khách thường, giá bán cho khách VIP).</em></strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: justify;"><u>Ví dụ:</u> Sản phẩm A có giá 9 đồng trong<strong>&nbsp;"Bảng giá khách hàng thường"&nbsp;</strong>và có giá 10 đồng trong <strong>"Bảng giá khách hàng VIP"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362898255.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới bảng giá</strong></h4>
+
+<p style="text-align: justify;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+
+<p><strong style="color:red;"><u>Lưu ý:</u></strong> Check vào field <strong>"Hoạt động"</strong> khi tạo mới Bảng giá</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362986055.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">Sau khi tạo xong bảng giá, bạn có thể thêm sản phẩm hoặc dịch vụ áp dụng cho bảng giá đó, bằng cách click vào tab "Sản phẩm" hoặc "Dịch vụ"</li>
+	</ul>
+</blockquote>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566374529232.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<h4><strong style="color: #F17029;">2. Import bảng giá</strong></h4>
+
+<p style="text-align: justify;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank"><strong>Cách Import dữ liệu vào phần mềm CloudPro CRM</strong></a></p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:3351:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Bảng giá là biểu mẫu thể hiện giá bán các sản phẩm, dịch vụ của công ty theo thời điểm.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Một sản phẩm, dịch vụ có thể có nhiều giá bán khác nhau theo các bảng giá khác nhau trong cùng một thời điểm hoặc khác thời điểm (giá bán ngày thường, ngày lễ, giá bán cho khách thường, giá bán cho khách VIP).</em></strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: justify;"><u>Ví dụ:</u> Sản phẩm A có giá 9 đồng trong<strong> "Bảng giá khách hàng thường" </strong>và có giá 10 đồng trong <strong>"Bảng giá khách hàng VIP"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362898255.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới bảng giá</strong></h4>
+<p style="text-align: justify;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+<p><strong style="color:red;"><u>Lưu ý:</u></strong> Check vào field <strong>"Hoạt động"</strong> khi tạo mới Bảng giá</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566362986055.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">Sau khi tạo xong bảng giá, bạn có thể thêm sản phẩm hoặc dịch vụ áp dụng cho bảng giá đó, bằng cách click vào tab "Sản phẩm" hoặc "Dịch vụ"</li>
+    </ul>
+</blockquote>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566374529232.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<h4><strong style="color: #F17029;">2. Import bảng giá</strong></h4>
+<p style="text-align: justify;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank"><strong>Cách Import dữ liệu vào phần mềm CloudPro CRM</strong></a></p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 07:18:52";s:10:"updated_at";s:19:"2019-08-21 08:02:34";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}}

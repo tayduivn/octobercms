@@ -1,0 +1,604 @@
+1567151328a:3:{i:0;O:8:"stdClass":23:{s:2:"id";i:137;s:7:"user_id";i:1;s:5:"title";s:64:"Cách tạo thư mục báo cáo trên phần mềm CloudPro CRM";s:4:"slug";s:51:"cach-tao-thu-muc-bao-cao-tren-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:8675:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Dù là bất kỳ doanh nghiệp nào, từ những doanh nghiệp có quy mô nhỏ cho đến những doanh nghiệp có quy mô vô cùng lớn thì đến mỗi tuần, tháng, quý hay năm đều phải thống kê lại các kết quả hoạt động của công ty. Dù chỉ là một team hay một bộ phận cũng phải thực hiện các báo cáo. Chính vì thế lập báo cáo là hoạt động không thể thiếu của bất kỳ phần mềm quản lý doanh nghiệp nào. Trong bài viết này chúng ta sẽ cùng tìm hiểu cách lập báo cáo trên phần mềm&nbsp;</em></strong><em><strong style="color: #057BC3;">CloudPro</strong></em><strong><em>&nbsp;</em></strong><em><strong style="color: #F17029;">CRM&nbsp;</strong></em><strong><em>của công ty&nbsp;</em></strong><em><strong style="color: #A90702;">OnlineCRM</strong></em><strong><em>&nbsp;nhé!</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo thư mục báo cáo</strong></h4>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565422106978.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 1:</u></strong><strong style="color: #F17029;">&nbsp;</strong>Click vào icon báo cáo trên thanh <strong>Header&nbsp;</strong>của phần mềm</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566447804349.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Tại màn hình danh sách click vào button (+) để thêm thư mục quản lý báo cáo</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566447847049.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Đặt tên cho thư mục, sau đó click <strong>“Lưu”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566447920778.png" style="width: 545px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u><strong>Bước 4:</strong></u><strong>&nbsp;</strong>Kết quả sau khi tạo thành công thư mục quản lý cho các báo cáo</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566448003081.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">2. Tạo báo cáo chi tiết</strong></h4>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565422563010.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 1:</u></strong> Click vào icon báo cáo trên thanh <strong>Header&nbsp;</strong>của phần mềm</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566448044747.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u><strong>Bước 2:</strong></u> Click vào <strong>“Thêm báo cáo”</strong> chọn <strong>“Báo cáo chi tiết”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566448286883.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u>&nbsp;</strong>Trong phần chi tiết báo cáo bạn lựa chọn đầy đủ dữ liệu tại các mục yêu cầu, sau đó click <strong>“Tiếp theo”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449418520.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li>1: Đặt tên cho báo cáo</li>
+		<li>2: Lựa chọn thư mục để lưu báo cáo</li>
+		<li>3: Module chính cho việc tạo báo cáo</li>
+		<li>(ngoài ra bạn có thể lựa chọn chia sẻ báo cáo cho người khác hoặc tick chọn cho báo cáo chạy định kỳ)</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 4:</u></strong> Lựa chọn cột hiển thị trong báo cáo, click vào <strong>“Tiếp theo”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449335380.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li>1: Lựa chọn cột hiển thị trong báo cáo</li>
+		<li>2: Lựa chọn dữ liệu để gom nhóm và thứ tự sắp xếp</li>
+	</ul>
+</blockquote>
+
+<p>
+	<mark><strong style="color: red;"><u>Chú ý:</u></strong></mark> Tại phần <strong>“Tính toán”</strong> nếu bạn:</p>
+
+<ul>
+	<li>Check chọn <strong>“Tổng cộng”</strong> <strong>-&gt;</strong>&nbsp; Cộng trường doanh thu hằng năm (theo ví dụ là của Đầu mối)</li>
+	<li>Check chọn <strong>“Trung bình”</strong> <strong>-&gt;</strong> Tính trung bình trường doanh thu hằng năm</li>
+	<li>Check chọn<strong>&nbsp;“Giá trị thấp nhất”</strong> <strong>-&gt;</strong> Lấy giá trị thấp nhất trường doanh thu hằng năm</li>
+	<li>Check chọn <strong>“Giá trị cao nhất”</strong> <strong>-</strong><strong>&gt;</strong> Lấy giá trị cao nhất trường doanh thu hằng năm</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 5:</u></strong> Thêm điều kiện lọc cho báo cáo, sau đó click <strong>“Lưu và tạo báo cáo”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449546191.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li>Điều kiện “<strong>Và</strong>”: Thỏa tất cả các điều kiện thì mới cho ra kết quả</li>
+		<li>Điều kiện “<strong>Hoặc</strong> ”: Chỉ cần thỏa 1 trong các điều kiện thì cho ra kết quả</li>
+	</ul>
+</blockquote>
+
+<p><strong><u>Bước 6:</u></strong> Kết quả sau khi tạo xong báo cáo dạng chi tiết</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449594106.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:8547:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Dù là bất kỳ doanh nghiệp nào, từ những doanh nghiệp có quy mô nhỏ cho đến những doanh nghiệp có quy mô vô cùng lớn thì đến mỗi tuần, tháng, quý hay năm đều phải thống kê lại các kết quả hoạt động của công ty. Dù chỉ là một team hay một bộ phận cũng phải thực hiện các báo cáo. Chính vì thế lập báo cáo là hoạt động không thể thiếu của bất kỳ phần mềm quản lý doanh nghiệp nào. Trong bài viết này chúng ta sẽ cùng tìm hiểu cách lập báo cáo trên phần mềm </em></strong><em><strong style="color: #057BC3;">CloudPro</strong></em><strong><em> </em></strong><em><strong style="color: #F17029;">CRM </strong></em><strong><em>của công ty </em></strong><em><strong style="color: #A90702;">OnlineCRM</strong></em><strong><em> nhé!</em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo thư mục báo cáo</strong></h4>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565422106978.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 1:</u></strong><strong style="color: #F17029;"> </strong>Click vào icon báo cáo trên thanh <strong>Header </strong>của phần mềm</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566447804349.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Tại màn hình danh sách click vào button (+) để thêm thư mục quản lý báo cáo</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566447847049.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Đặt tên cho thư mục, sau đó click <strong>“Lưu”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566447920778.png" style="width: 545px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><u><strong>Bước 4:</strong></u><strong> </strong>Kết quả sau khi tạo thành công thư mục quản lý cho các báo cáo</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566448003081.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">2. Tạo báo cáo chi tiết</strong></h4>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565422563010.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 1:</u></strong> Click vào icon báo cáo trên thanh <strong>Header </strong>của phần mềm</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566448044747.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><u><strong>Bước 2:</strong></u> Click vào <strong>“Thêm báo cáo”</strong> chọn <strong>“Báo cáo chi tiết”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566448286883.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u> </strong>Trong phần chi tiết báo cáo bạn lựa chọn đầy đủ dữ liệu tại các mục yêu cầu, sau đó click <strong>“Tiếp theo”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449418520.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li>1: Đặt tên cho báo cáo</li>
+        <li>2: Lựa chọn thư mục để lưu báo cáo</li>
+        <li>3: Module chính cho việc tạo báo cáo</li>
+        <li>(ngoài ra bạn có thể lựa chọn chia sẻ báo cáo cho người khác hoặc tick chọn cho báo cáo chạy định kỳ)</li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 4:</u></strong> Lựa chọn cột hiển thị trong báo cáo, click vào <strong>“Tiếp theo”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449335380.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li>1: Lựa chọn cột hiển thị trong báo cáo</li>
+        <li>2: Lựa chọn dữ liệu để gom nhóm và thứ tự sắp xếp</li>
+    </ul>
+</blockquote>
+<p>
+    <mark><strong style="color: red;"><u>Chú ý:</u></strong></mark> Tại phần <strong>“Tính toán”</strong> nếu bạn:</p>
+<ul>
+    <li>Check chọn <strong>“Tổng cộng”</strong> <strong>-&gt;</strong>  Cộng trường doanh thu hằng năm (theo ví dụ là của Đầu mối)</li>
+    <li>Check chọn <strong>“Trung bình”</strong> <strong>-&gt;</strong> Tính trung bình trường doanh thu hằng năm</li>
+    <li>Check chọn<strong> “Giá trị thấp nhất”</strong> <strong>-&gt;</strong> Lấy giá trị thấp nhất trường doanh thu hằng năm</li>
+    <li>Check chọn <strong>“Giá trị cao nhất”</strong> <strong>-</strong><strong>&gt;</strong> Lấy giá trị cao nhất trường doanh thu hằng năm</li>
+</ul>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 5:</u></strong> Thêm điều kiện lọc cho báo cáo, sau đó click <strong>“Lưu và tạo báo cáo”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449546191.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li>Điều kiện “<strong>Và</strong>”: Thỏa tất cả các điều kiện thì mới cho ra kết quả</li>
+        <li>Điều kiện “<strong>Hoặc</strong> ”: Chỉ cần thỏa 1 trong các điều kiện thì cho ra kết quả</li>
+    </ul>
+</blockquote>
+<p><strong><u>Bước 6:</u></strong> Kết quả sau khi tạo xong báo cáo dạng chi tiết</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566449594106.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 07:33:18";s:10:"updated_at";s:19:"2019-08-22 04:58:53";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:1;O:8:"stdClass":23:{s:2:"id";i:138;s:7:"user_id";i:1;s:5:"title";s:95:"Thể hiện báo cáo dưới dạng biểu đồ trực quan bằng phần mềm CloudPro CRM";s:4:"slug";s:67:"hien-bao-cao-duoi-dang-bieu-do-truc-quan-bang-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:6599:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Việc thể hiện báo cáo dưới dạng biểu đồ là phương pháp rất được các doanh nghiệp ưa chuộng. Với ưu điểm giúp cho người quản lý có cái nhìn một cách tổng quát về thành phần, sự tăng trưởng hay bất kỳ biến đổi nào trong quá trình hoạt động của doanh nghiệp.&nbsp;</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><em><strong>Nắm bắt được điều đó, phần mềm <em><strong style="color: #057BC3;">CloudPro&nbsp;</strong></em><em><strong style="color: #F17029;">CRM&nbsp;</strong></em>của công ty&nbsp;</strong><strong style="color: #A90702;">OnlineCRM&nbsp;</strong><strong>có tích hợp riêng tính năng thể hiện báo cáo thống kê dưới dạng biểu đồ trực quan. Đảm bảo sẽ phần nào giúp cho các doanh nghiệp quản lý các báo cáo của mình một cách tốt hơn.&nbsp;</strong></em></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết này sẽ hướng dẫn cho các bạn cách lập báo cáo dạng biểu đồ bằng phần mềm&nbsp;</em></strong><em><strong><em><strong style="color: #057BC3;">CloudPro&nbsp;</strong></em><em><strong style="color: #F17029;">CRM</strong></em></strong></em><strong><em>.</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">Tạo báo cáo biểu đồ</strong></h4>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565424220529.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p>
+	<br>
+</p>
+
+<p><u><strong>Bước 1:</strong></u> Click vào icon báo cáo trên thanh <strong>Header&nbsp;</strong>của phần mềm</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566450173847.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click vào<strong>&nbsp;“Thêm báo cáo”&nbsp;</strong>chọn <strong>“Biểu đồ”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566450226503.png" style="width: 510px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u><strong>Bước 3:</strong></u><strong>&nbsp;</strong>Trong phần chi tiết báo cáo bạn lựa chọn đầy đủ dữ liệu tại các mục yêu cầu, sau đó click<strong>&nbsp;“Tiếp tục”</strong></p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566450350692.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<blockquote>
+
+	<p>1: Đặt tên cho báo cáo</p>
+
+	<p>2: Lựa chọn thư mục để lưu báo cáo</p>
+
+	<p>3: Module chính cho việc tạo báo cáo</p>
+
+	<p>(ngoài ra bạn có thể lựa chọn chia sẻ báo cáo cho người khác hoặc tick chọn cho báo cáo chạy định kỳ)</p>
+</blockquote>
+
+<p><strong><u>Bước 4:</u></strong> Thêm điều kiện lọc cho báo cáo, sau đó click <strong>“Lưu và tạo báo cáo”</strong></p>
+
+<p style="text-align: center;"><strong><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566457412319.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></em></strong>
+	<br>
+</p>
+
+<blockquote>
+
+	<p>Điều kiện “Và”: Thỏa tất cả các điều kiện thì mới cho ra kết quả</p>
+
+	<p>Điều kiện “Hoặc ”: Chỉ cần thỏa 1 trong các điều kiện thì cho ra kết quả</p>
+</blockquote>
+
+<p><u><strong>Bước 5:</strong></u> Lựa chọn loại biểu đồ và dữ liệu gom nhóm, sau đó click<strong>&nbsp;“Lưu và tạo báo cáo”</strong></p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566457504878.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success">
+	<br>
+</p>
+
+<blockquote>
+
+	<p>1: Lựa chọn loại biểu đồ hiển thị cho báo cáo</p>
+
+	<p>2: Lựa chọn trường sử dụng cho việc gom nhóm</p>
+</blockquote>
+
+<p><strong><u>Bước 6:</u></strong> Kết quả sau khi tạo xong báo cáo dạng biểu đồ</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458122307.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Nếu bạn muốn đưa báo cáo dạng biểu đồ ra màn hình <strong>Home</strong>, bạn có thể click check chọn biểu tượng (Ghim) trên báo cáo.</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458162727.png" style="width: 572px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458257791.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4>
+	<br>
+</h4>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:6452:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Việc thể hiện báo cáo dưới dạng biểu đồ là phương pháp rất được các doanh nghiệp ưa chuộng. Với ưu điểm giúp cho người quản lý có cái nhìn một cách tổng quát về thành phần, sự tăng trưởng hay bất kỳ biến đổi nào trong quá trình hoạt động của doanh nghiệp. </em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><em><strong>Nắm bắt được điều đó, phần mềm <em><strong style="color: #057BC3;">CloudPro </strong></em><em><strong style="color: #F17029;">CRM </strong></em>của công ty </strong><strong style="color: #A90702;">OnlineCRM </strong><strong>có tích hợp riêng tính năng thể hiện báo cáo thống kê dưới dạng biểu đồ trực quan. Đảm bảo sẽ phần nào giúp cho các doanh nghiệp quản lý các báo cáo của mình một cách tốt hơn. </strong></em></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết này sẽ hướng dẫn cho các bạn cách lập báo cáo dạng biểu đồ bằng phần mềm </em></strong><em><strong><em><strong style="color: #057BC3;">CloudPro </strong></em><em><strong style="color: #F17029;">CRM</strong></em></strong></em><strong><em>.</em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">Tạo báo cáo biểu đồ</strong></h4>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565424220529.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></p>
+<p>
+    <br>
+</p>
+<p><u><strong>Bước 1:</strong></u> Click vào icon báo cáo trên thanh <strong>Header </strong>của phần mềm</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566450173847.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click vào<strong> “Thêm báo cáo” </strong>chọn <strong>“Biểu đồ”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566450226503.png" style="width: 510px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><u><strong>Bước 3:</strong></u><strong> </strong>Trong phần chi tiết báo cáo bạn lựa chọn đầy đủ dữ liệu tại các mục yêu cầu, sau đó click<strong> “Tiếp tục”</strong></p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566450350692.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<blockquote>
+
+    <p>1: Đặt tên cho báo cáo</p>
+
+    <p>2: Lựa chọn thư mục để lưu báo cáo</p>
+
+    <p>3: Module chính cho việc tạo báo cáo</p>
+
+    <p>(ngoài ra bạn có thể lựa chọn chia sẻ báo cáo cho người khác hoặc tick chọn cho báo cáo chạy định kỳ)</p>
+</blockquote>
+<p><strong><u>Bước 4:</u></strong> Thêm điều kiện lọc cho báo cáo, sau đó click <strong>“Lưu và tạo báo cáo”</strong></p>
+<p style="text-align: center;"><strong><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566457412319.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></em></strong>
+    <br>
+</p>
+<blockquote>
+
+    <p>Điều kiện “Và”: Thỏa tất cả các điều kiện thì mới cho ra kết quả</p>
+
+    <p>Điều kiện “Hoặc ”: Chỉ cần thỏa 1 trong các điều kiện thì cho ra kết quả</p>
+</blockquote>
+<p><u><strong>Bước 5:</strong></u> Lựa chọn loại biểu đồ và dữ liệu gom nhóm, sau đó click<strong> “Lưu và tạo báo cáo”</strong></p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566457504878.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success">
+    <br>
+</p>
+<blockquote>
+
+    <p>1: Lựa chọn loại biểu đồ hiển thị cho báo cáo</p>
+
+    <p>2: Lựa chọn trường sử dụng cho việc gom nhóm</p>
+</blockquote>
+<p><strong><u>Bước 6:</u></strong> Kết quả sau khi tạo xong báo cáo dạng biểu đồ</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458122307.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Nếu bạn muốn đưa báo cáo dạng biểu đồ ra màn hình <strong>Home</strong>, bạn có thể click check chọn biểu tượng (Ghim) trên báo cáo.</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458162727.png" style="width: 572px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458257791.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4>
+    <br>
+</h4>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 08:24:14";s:10:"updated_at";s:19:"2019-08-22 07:21:07";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:2;O:8:"stdClass":23:{s:2:"id";i:139;s:7:"user_id";i:1;s:5:"title";s:58:"Cách xem và xuất báo cáo trên phần mềm CloudPro";s:4:"slug";s:47:"cach-xem-va-xuat-bao-cao-tren-phan-mem-cloudpro";s:7:"excerpt";s:0:"";s:7:"content";s:4014:"<p>
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Đối với chức năng quản lý báo cáo. Ngoài tính năng lập báo cáo chi tiết, lập báo cáo dạng biểu đồ. Phần mềm CRM cần phải đảm bảo có chức năng tìm kiếm và xem lại các báo cáo đã lập. Không những thế còn phải hỗ trợ tính năng xuất báo cáo với nhiều định dạng file khác nhau. Đảm bảo mọi hoạt động phát sinh khi công việc có liên quan đến báo cáo điều được giải quyết.&nbsp;</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết dưới đây chúng tôi sẽ hướng dẫn các bạn cách xem lại báo cáo đã lập cũng như thực hiện các chức năng tuỳ chỉnh, in và xuất báo cáo trên phần mềm&nbsp;</em></strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro&nbsp;</strong></em><em><em><strong>CRM</strong></em></em><strong><em>&nbsp; nhé.&nbsp;</em></strong></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Xem báo cáo</strong></h4>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565426783417.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Click vào icon báo cáo trên thanh <strong>Header&nbsp;</strong>của phần mềm</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458630554.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr"><strong><u>Bước 2:</u></strong> Tại màn hình danh sách bạn có thể tìm kiếm theo tên báo cáo</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566459370590.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: left;"><strong><u>Bước 3:</u></strong> Click để mở xem chi tiết báo cáo</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566459568934.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">2. Xuất báo cáo</strong></h4>
+
+<p dir="ltr">Để <strong>Xuất&nbsp;</strong>hoặc<strong>&nbsp;In báo cáo</strong>, Click vào các lệnh trên góc phải màn hình để thực thi.&nbsp;</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566459607231.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:3909:"<p>
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Đối với chức năng quản lý báo cáo. Ngoài tính năng lập báo cáo chi tiết, lập báo cáo dạng biểu đồ. Phần mềm CRM cần phải đảm bảo có chức năng tìm kiếm và xem lại các báo cáo đã lập. Không những thế còn phải hỗ trợ tính năng xuất báo cáo với nhiều định dạng file khác nhau. Đảm bảo mọi hoạt động phát sinh khi công việc có liên quan đến báo cáo điều được giải quyết. </em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết dưới đây chúng tôi sẽ hướng dẫn các bạn cách xem lại báo cáo đã lập cũng như thực hiện các chức năng tuỳ chỉnh, in và xuất báo cáo trên phần mềm </em></strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro </strong></em><em><em><strong>CRM</strong></em></em><strong><em>  nhé. </em></strong></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Xem báo cáo</strong></h4>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565426783417.png" style="width: 720px;" class="fr-fic fr-dib" data-result="success"></p>
+<p>
+    <br>
+</p>
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Click vào icon báo cáo trên thanh <strong>Header </strong>của phần mềm</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566458630554.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;">
+    <br>
+</p>
+<p dir="ltr"><strong><u>Bước 2:</u></strong> Tại màn hình danh sách bạn có thể tìm kiếm theo tên báo cáo</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566459370590.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: left;"><strong><u>Bước 3:</u></strong> Click để mở xem chi tiết báo cáo</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566459568934.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">2. Xuất báo cáo</strong></h4>
+<p dir="ltr">Để <strong>Xuất </strong>hoặc<strong> In báo cáo</strong>, Click vào các lệnh trên góc phải màn hình để thực thi. </p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566459607231.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 08:45:29";s:10:"updated_at";s:19:"2019-08-22 07:45:03";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}}

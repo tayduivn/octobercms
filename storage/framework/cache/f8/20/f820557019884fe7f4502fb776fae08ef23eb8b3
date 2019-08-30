@@ -1,0 +1,56 @@
+1567150127a:1:{s:16:"searchResult.htm";a:12:{s:8:"fileName";s:16:"searchResult.htm";s:7:"content";s:1047:"title = "Kết quả tìm kiếm"
+url = "/search/:search?/:page?"
+layout = "noSidebar"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[searchResult]
+searchTerm = "{{ :search }}"
+pageNumber = "{{ :page }}"
+disableUrlMapping = 0
+hightlight = 1
+postsPerPage = 10
+noPostsMessage = "Not found"
+sortOrder = "published_at desc"
+excludeCategories[] = 5
+excludeCategories[] = 6
+excludeCategories[] = 16
+excludeCategories[] = 17
+excludeCategories[] = 18
+excludeCategories[] = 19
+excludeCategories[] = 21
+excludeCategories[] = 23
+excludeCategories[] = 25
+excludeCategories[] = 26
+excludeCategories[] = 28
+excludeCategories[] = 29
+excludeCategories[] = 50
+excludeCategories[] = 51
+excludeCategories[] = 52
+excludeCategories[] = 53
+excludeCategories[] = 54
+excludeCategories[] = 55
+excludeCategories[] = 56
+excludeCategories[] = 57
+excludeCategories[] = 58
+==
+<?php
+function onStart()
+{
+$this->addCss('assets/css/searchResult.css');
+}
+?>
+==
+<div class="container">
+<br>
+{% component 'searchResult' %}
+{% partial 'blog/pagination' %}
+</div>";s:5:"mtime";i:1566890438;s:6:"markup";s:102:"<div class="container">
+<br>
+{% component 'searchResult' %}
+{% partial 'blog/pagination' %}
+</div>";s:4:"code";s:71:"function onStart()
+{
+$this->addCss('assets/css/searchResult.css');
+}";s:5:"title";s:23:"Kết quả tìm kiếm";s:3:"url";s:23:"/search/:search?/:page?";s:6:"layout";s:9:"noSidebar";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:12:"searchResult";a:8:{s:10:"searchTerm";s:13:"{{ :search }}";s:10:"pageNumber";s:11:"{{ :page }}";s:17:"disableUrlMapping";s:1:"0";s:10:"hightlight";s:1:"1";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:9:"Not found";s:9:"sortOrder";s:17:"published_at desc";s:17:"excludeCategories";a:21:{i:0;s:1:"5";i:1;s:1:"6";i:2;s:2:"16";i:3;s:2:"17";i:4;s:2:"18";i:5;s:2:"19";i:6;s:2:"21";i:7;s:2:"23";i:8;s:2:"25";i:9;s:2:"26";i:10;s:2:"28";i:11;s:2:"29";i:12;s:2:"50";i:13;s:2:"51";i:14;s:2:"52";i:15;s:2:"53";i:16;s:2:"54";i:17;s:2:"55";i:18;s:2:"56";i:19;s:2:"57";i:20;s:2:"58";}}}}

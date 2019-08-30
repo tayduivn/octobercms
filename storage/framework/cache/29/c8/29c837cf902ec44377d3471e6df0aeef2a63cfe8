@@ -1,0 +1,37 @@
+1567150126a:1:{s:8:"faqs.htm";a:13:{s:8:"fileName";s:8:"faqs.htm";s:7:"content";s:693:"title = "Câu hỏi thường gặp"
+url = "/faqs/:category1/:category2?/:page?"
+layout = "withSidebarCategory"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeTitle[en] = "FAQs"
+
+[CategoryThreeLevel]
+pageNumber = "{{ :page }}"
+postSlug = "default"
+categoryMaster = "Q&A"
+categoryParentFilter = "{{ :category1 }}"
+categoryFilter = "{{ :category2 }}"
+postsPerPage = 10
+noPostsMessage = "No posts found"
+sortOrder = "ordinal asc"
+categoryPage = "faqs"
+postPage = "createticket"
+==
+<?php
+function onStart()
+{
+$this->addCss('assets/css/dropdownFaqsHome.css');
+$this->addJs('assets/js/dropdownFaqs.js');
+}
+?>
+==
+{% partial 'blog/faqs' %}
+{% partial 'blog/pagination' %}";s:5:"mtime";i:1566890439;s:6:"markup";s:57:"{% partial 'blog/faqs' %}
+{% partial 'blog/pagination' %}";s:4:"code";s:115:"function onStart()
+{
+$this->addCss('assets/css/dropdownFaqsHome.css');
+$this->addJs('assets/js/dropdownFaqs.js');
+}";s:5:"title";s:26:"Câu hỏi thường gặp";s:3:"url";s:35:"/faqs/:category1/:category2?/:page?";s:6:"layout";s:19:"withSidebarCategory";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:1:{s:11:"localeTitle";a:1:{s:2:"en";s:4:"FAQs";}}s:18:"CategoryThreeLevel";a:10:{s:10:"pageNumber";s:11:"{{ :page }}";s:8:"postSlug";s:7:"default";s:14:"categoryMaster";s:3:"Q&A";s:20:"categoryParentFilter";s:16:"{{ :category1 }}";s:14:"categoryFilter";s:16:"{{ :category2 }}";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:11:"ordinal asc";s:12:"categoryPage";s:4:"faqs";s:8:"postPage";s:12:"createticket";}}}

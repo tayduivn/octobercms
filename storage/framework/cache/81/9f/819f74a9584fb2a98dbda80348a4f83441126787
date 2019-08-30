@@ -1,0 +1,37 @@
+1567150127a:1:{s:9:"video.htm";a:13:{s:8:"fileName";s:9:"video.htm";s:7:"content";s:667:"title = "Video"
+url = "/video/:category1/:category2?/:page?"
+layout = "withSidebarCategory"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeTitle[en] = "Video Clips"
+
+[CategoryThreeLevel]
+pageNumber = "{{ :page }}"
+postSlug = "default"
+categoryMaster = "guide"
+categoryParentFilter = "{{ :category1 }}"
+categoryFilter = "{{ :category2 }}"
+postsPerPage = 10
+noPostsMessage = "No posts found"
+sortOrder = "ordinal asc"
+categoryPage = "video"
+postPage = "post"
+==
+<?php
+function onStart()
+{
+$this->addJs('assets/js/videoModalHome.js');
+$this->addCss('assets/css/video.css');
+}
+?>
+==
+{% partial 'blog/video' %}
+{% partial 'blog/pagination' %}";s:5:"mtime";i:1566890438;s:6:"markup";s:58:"{% partial 'blog/video' %}
+{% partial 'blog/pagination' %}";s:4:"code";s:106:"function onStart()
+{
+$this->addJs('assets/js/videoModalHome.js');
+$this->addCss('assets/css/video.css');
+}";s:5:"title";s:5:"Video";s:3:"url";s:36:"/video/:category1/:category2?/:page?";s:6:"layout";s:19:"withSidebarCategory";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:1:{s:11:"localeTitle";a:1:{s:2:"en";s:11:"Video Clips";}}s:18:"CategoryThreeLevel";a:10:{s:10:"pageNumber";s:11:"{{ :page }}";s:8:"postSlug";s:7:"default";s:14:"categoryMaster";s:5:"guide";s:20:"categoryParentFilter";s:16:"{{ :category1 }}";s:14:"categoryFilter";s:16:"{{ :category2 }}";s:12:"postsPerPage";s:2:"10";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:11:"ordinal asc";s:12:"categoryPage";s:5:"video";s:8:"postPage";s:4:"post";}}}

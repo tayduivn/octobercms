@@ -1,0 +1,1279 @@
+1567146226a:8:{i:0;O:8:"stdClass":23:{s:2:"id";i:143;s:7:"user_id";i:1;s:5:"title";s:68:"Các thao tác tại module đầu mối trên phần mềm CloudPro";s:4:"slug";s:54:"cac-thao-tac-tai-module-dau-moi-tren-phan-mem-cloudpro";s:7:"excerpt";s:0:"";s:7:"content";s:8098:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1k7DhiCQyaD516wrhx_DzYcwHtzCIAe5k/preview" width="700" height="400"></iframe></span>
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Ở bài viết này, chúng tôi sẽ hướng dẫn cho bạn những công việc sau:</em></strong></p>
+
+<ul>
+	<li>Tạo nhanh đầu mối</li>
+	<li>Tạo mới đầu mối</li>
+	<li>Import đầu mối</li>
+	<li>Tạo tài liệu/ file đính kèm</li>
+	<li>Chuyển đổi đầu mối thành khách hàng</li>
+</ul>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh đầu mối</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 1)</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Tạo mới đầu mối</strong></h4>
+
+<p>Bạn tham khảo tại: &nbsp;<a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2)</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Import đầu mối</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">4. Tạo tài liệu/ file đính kèm</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong>&nbsp; Tại màn hình chi tiết của Đầu mối, click vào tab<strong>&nbsp;“Tài liệu”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566363180348.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u>&nbsp;</strong>Tại màn hình Tài liệu, bạn có thể lựa chọn <strong>“Chọn tài liệu”</strong> đã tạo trong hệ thống hoặc<strong>&nbsp;“Thêm mới tài liệu”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439017310.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<p style="text-align: left;">1: Lựa chọn tài liệu đã được tạo sẵn trong hệ thống</p>
+</blockquote>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439204060.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<p style="text-align: left;">2: Thêm mới tài liệu với các lựa chọn: Tải lên CRM, Từ đường dẫn file hoặc tạo mới tài liệu.</p>
+</blockquote>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439234847.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u>Ví dụ:</u> Lựa chọn tải file đính kèm (Tải lên CRM), Lựa chọn file đính, sau đó click Upload</p>
+
+<p style="text-align: left;">Kết quả sau khi upload file đính kèm cho Đầu mối:</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439268535.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">5. Chuyển đổi đầu mối thành khách hàng</strong></h4>
+
+<p style="text-align: justify;">Khi đầu mối đã đủ điều kiện và xác định có thực hiện giao dịch mua bán. Tiến hành chuyển đổi Đầu mối thành Khách hàng với các thông tin: Cơ hội, Người liện hệ, Công ty sẽ được tạo ra đồng thời để lưu trữ thông tin liên quan đến Đầu mối được chuyển đổi.</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 1:</u></strong>&nbsp; Mở thông tin chi tiết 1 Đầu mối muốn chuyển đổi, Click vào Button <strong>“Chuyển đổi Đầu mối”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439325223.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2</u>:&nbsp;</strong>Tại màn hình Popup, xác nhận các thông tin được tạo mới từ việc chuyển đổi, sau đó Click Button<strong>&nbsp;“Lưu”&nbsp;</strong>để thực hiện việc chuyển đổi</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439451939.png" style="width: 517px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<p>1: Thông tin về Công ty được tạo ra sau khi chuyển đổi</p>
+
+	<p>2: Thông tin về Người liên hệ được tạo ra sau khi chuyển đổi</p>
+
+	<p>3: Check chọn nếu muốn tạo Cơ hội cho Công ty sau khi được chuyển đổi</p>
+</blockquote>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439520174.png" style="width: 518px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Hệ thống hiển thị thông tin Công ty được tạo ra sau khi Chuyển đổi từ Đầu mối</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439563957.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<p style="text-align: justify;">Bạn có thể chuyển các tài liệu, email, hoạt động … liên quan sang Công ty hoặc Người liên hệ bằng cách chọn vào mục tương ứng trong quá trình chuyển đổi đầu mối</p>
+</blockquote>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439622126.png" style="width: 435px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:7933:"<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1k7DhiCQyaD516wrhx_DzYcwHtzCIAe5k/preview" width="700" height="400"></iframe></span>
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Ở bài viết này, chúng tôi sẽ hướng dẫn cho bạn những công việc sau:</em></strong></p>
+<ul>
+    <li>Tạo nhanh đầu mối</li>
+    <li>Tạo mới đầu mối</li>
+    <li>Import đầu mối</li>
+    <li>Tạo tài liệu/ file đính kèm</li>
+    <li>Chuyển đổi đầu mối thành khách hàng</li>
+</ul>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh đầu mối</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 1)</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Tạo mới đầu mối</strong></h4>
+<p>Bạn tham khảo tại:  <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2)</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Import đầu mối</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">4. Tạo tài liệu/ file đính kèm</strong></h4>
+<p><strong><u>Bước 1:</u></strong>  Tại màn hình chi tiết của Đầu mối, click vào tab<strong> “Tài liệu”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566363180348.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u> </strong>Tại màn hình Tài liệu, bạn có thể lựa chọn <strong>“Chọn tài liệu”</strong> đã tạo trong hệ thống hoặc<strong> “Thêm mới tài liệu”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439017310.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <p style="text-align: left;">1: Lựa chọn tài liệu đã được tạo sẵn trong hệ thống</p>
+</blockquote>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439204060.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <p style="text-align: left;">2: Thêm mới tài liệu với các lựa chọn: Tải lên CRM, Từ đường dẫn file hoặc tạo mới tài liệu.</p>
+</blockquote>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439234847.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><u>Ví dụ:</u> Lựa chọn tải file đính kèm (Tải lên CRM), Lựa chọn file đính, sau đó click Upload</p>
+<p style="text-align: left;">Kết quả sau khi upload file đính kèm cho Đầu mối:</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439268535.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">5. Chuyển đổi đầu mối thành khách hàng</strong></h4>
+<p style="text-align: justify;">Khi đầu mối đã đủ điều kiện và xác định có thực hiện giao dịch mua bán. Tiến hành chuyển đổi Đầu mối thành Khách hàng với các thông tin: Cơ hội, Người liện hệ, Công ty sẽ được tạo ra đồng thời để lưu trữ thông tin liên quan đến Đầu mối được chuyển đổi.</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 1:</u></strong>  Mở thông tin chi tiết 1 Đầu mối muốn chuyển đổi, Click vào Button <strong>“Chuyển đổi Đầu mối”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439325223.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2</u>: </strong>Tại màn hình Popup, xác nhận các thông tin được tạo mới từ việc chuyển đổi, sau đó Click Button<strong> “Lưu” </strong>để thực hiện việc chuyển đổi</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439451939.png" style="width: 517px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <p>1: Thông tin về Công ty được tạo ra sau khi chuyển đổi</p>
+
+    <p>2: Thông tin về Người liên hệ được tạo ra sau khi chuyển đổi</p>
+
+    <p>3: Check chọn nếu muốn tạo Cơ hội cho Công ty sau khi được chuyển đổi</p>
+</blockquote>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439520174.png" style="width: 518px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Hệ thống hiển thị thông tin Công ty được tạo ra sau khi Chuyển đổi từ Đầu mối</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439563957.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <p style="text-align: justify;">Bạn có thể chuyển các tài liệu, email, hoạt động … liên quan sang Công ty hoặc Người liên hệ bằng cách chọn vào mục tương ứng trong quá trình chuyển đổi đầu mối</p>
+</blockquote>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566439622126.png" style="width: 435px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-10 11:18:51";s:10:"updated_at";s:19:"2019-08-22 02:22:39";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:1;O:8:"stdClass":23:{s:2:"id";i:144;s:7:"user_id";i:1;s:5:"title";s:62:"Quản lý người liên hệ nhanh chóng với CLoudPro CRM";s:4:"slug";s:50:"quan-ly-nguoi-lien-he-nhanh-chong-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:3671:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Người liên hệ là nơi lưu trữ thông tin các cá nhân trong một tổ chức (công ty, đại lý, cửa hàng, đoàn, hội ...). &nbsp;Các cá nhân này có vai trò đơn thuần như là một người liên hệ trong một tổ chức của mô hình kinh doanh B2B &nbsp;hoặc có vai trò như là một khách hàng lẻ trong mô hình kinh doanh B2C.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin người liên hệ: họ tên, email, số điện thoại, công ty ...; &nbsp;đơn hàng, báo giá, hợp đồng …</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh người liên hệ</strong></h4>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371283604.png" style="width: 561px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"> <br></strong></p>
+
+<p style="text-align: left;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank"><strong>Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</strong></a><strong>&nbsp;(mục 1)&nbsp;</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">2. Tạo mới người liên hệ</strong></h4>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371422703.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: left;">Bạn tham khảo tại: &nbsp;<a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2)&nbsp;</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">3. Tạo người liên hệ từ việc chuyển đổi đầu mối</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang" rel="noopener noreferrer" target="_blank">Các thao tác tại module đầu mối trên phần mềm CloudPro</a> (mục 5)</p>
+
+<p>
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">4. Import Người liên hệ</strong></h4>
+
+<p>Bạn tham khảo tại:<strong style="color: #F17029;">&nbsp;</strong><a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:3576:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Người liên hệ là nơi lưu trữ thông tin các cá nhân trong một tổ chức (công ty, đại lý, cửa hàng, đoàn, hội ...).  Các cá nhân này có vai trò đơn thuần như là một người liên hệ trong một tổ chức của mô hình kinh doanh B2B  hoặc có vai trò như là một khách hàng lẻ trong mô hình kinh doanh B2C.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin người liên hệ: họ tên, email, số điện thoại, công ty ...;  đơn hàng, báo giá, hợp đồng …</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh người liên hệ</strong></h4>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371283604.png" style="width: 561px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"> <br></strong></p>
+<p style="text-align: left;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank"><strong>Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</strong></a><strong> (mục 1) </strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">2. Tạo mới người liên hệ</strong></h4>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371422703.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: left;">Bạn tham khảo tại:  <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2) </p>
+<p style="text-align: left;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">3. Tạo người liên hệ từ việc chuyển đổi đầu mối</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang" rel="noopener noreferrer" target="_blank">Các thao tác tại module đầu mối trên phần mềm CloudPro</a> (mục 5)</p>
+<p>
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">4. Import Người liên hệ</strong></h4>
+<p>Bạn tham khảo tại:<strong style="color: #F17029;"> </strong><a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 01:54:32";s:10:"updated_at";s:19:"2019-08-21 07:11:16";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:2;O:8:"stdClass":23:{s:2:"id";i:145;s:7:"user_id";i:1;s:5:"title";s:51:"Quản lý công ty nhanh chóng với CLoudPro CRM";s:4:"slug";s:44:"quan-ly-cong-ty-nhanh-chong-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:3301:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Module Công ty là nơi lưu trữ thông tin của một tổ chức (công ty, đại lý, cửa hàng, đoàn, hội ...)</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin của một công ty/ tổ chức: tên, tên viết tắt, số điện thoại, email, mã số thuế …; đơn hàng, báo giá, hợp đồng, vụ việc ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh công ty</strong></h4>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371837575.png" style="width: 594px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: justify;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 1)</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Tạo mới công ty</strong></h4>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371692844.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>&nbsp;</strong></p>
+
+<p style="text-align: justify;">Bạn tham khảo tại: &nbsp;<a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2)</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Tạo công ty từ việc chuyển đổi đầu mối</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang" rel="noopener noreferrer" target="_blank">Các thao tác tại module đầu mối trên phần mềm CloudPro</a> (mục 5)</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">4. Import công ty</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a>&nbsp;</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:3228:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Module Công ty là nơi lưu trữ thông tin của một tổ chức (công ty, đại lý, cửa hàng, đoàn, hội ...)</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin của một công ty/ tổ chức: tên, tên viết tắt, số điện thoại, email, mã số thuế …; đơn hàng, báo giá, hợp đồng, vụ việc ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh công ty</strong></h4>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371837575.png" style="width: 594px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: justify;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 1)</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Tạo mới công ty</strong></h4>
+<p style="text-align: center;"><strong style="color: #F17029;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371692844.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+    <br> </strong></p>
+<p style="text-align: justify;">Bạn tham khảo tại:  <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2)</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Tạo công ty từ việc chuyển đổi đầu mối</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang" rel="noopener noreferrer" target="_blank">Các thao tác tại module đầu mối trên phần mềm CloudPro</a> (mục 5)</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">4. Import công ty</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a> </p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 02:09:29";s:10:"updated_at";s:19:"2019-08-21 07:17:45";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:3;O:8:"stdClass":23:{s:2:"id";i:146;s:7:"user_id";i:1;s:5:"title";s:63:"Quản lý cơ hội bán hàng nhanh chóng với CLoudPro CRM";s:4:"slug";s:52:"quan-ly-co-hoi-ban-hang-nhanh-chong-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:10307:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1D27MQrkXBwWJZuvAxZKLaU-S5wofoGye/preview" width="700" height="400"></iframe></span></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Cơ hội hay còn gọi là Deal bán hàng. Cơ hội ghi nhận một nhu cầu về sản phẩm, dịch vụ của khách hàng mà công ty có thể đáp ứng được.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin cơ hội: giá trị cơ hội, ngày chốt dự kiến, doanh số dự kiến, bước bán hàng, bước tiếp theo ...; người liên hệ tham gia vào cơ hội, báo giá, đơn hàng, hợp đồng, sản phẩm, dịch vụ ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p><strong style="color:red;"><u>Lưu ý:</u></strong></p>
+
+<ul>
+	<li style="text-align: justify;">Thông tin Bước bán hàng (Sales Stage) của một cơ hội sẽ thể hiện tất cả các bước bán hàng trong quy trình bán hàng của công ty. Vì vậy, module Cơ hội thường được sử dụng và &nbsp;phù hợp với mô hình kinh doanh B2B (mô hình kinh doanh gồm nhiều bước bán hàng với thời gian kéo dài) còn mô hình kinh doanh B2C thì thường không được áp dụng vì không phù hợp.</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<ul>
+	<li style="text-align: justify;">Một khách hàng (cá nhân hoặc tổ chức) có thể có một hoặc nhiều cơ hội trong một hoặc nhiều thời điểm khác nhau (các cơ hội có thể ghi nhận cùng một thời điểm hoặc khác thời điểm) do một hoặc nhiều sales phụ trách (các cơ hội có thể đều do một sales phụ trách hoặc các cơ hội được chia ra cho nhiều sales phụ trách).</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh cơ hội</strong></h4>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371903204.png" style="width: 606px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: left;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 1)</p>
+
+<p style="text-align: left;">&nbsp;</p>
+
+<h4><strong style="color: #F17029;">2. Tạo mới cơ hội</strong></h4>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371996600.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+	<br>
+</p>
+
+<p style="text-align: left;">Bạn tham khảo tại: &nbsp;<a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2)&nbsp;</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Tạo cơ hội từ việc chuyển đổi đầu mối</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang" rel="noopener noreferrer" target="_blank">Các thao tác tại module đầu mối trên phần mềm CloudPro</a> (mục 5)</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">4. Tạo cơ hội từ công ty</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Tại màn hình thông tin chi tiết công ty, click vào tab <strong>“Cơ hội”</strong></p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372151991.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click vào button <strong>“Thêm cơ hội”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372186009.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình tạo mới cơ hội, nhập đầy đủ các thông tin cần thiết, sau đó click<strong>&nbsp;“Lưu”&nbsp;</strong>để hoàn tất</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372265969.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u></strong> Bạn có thể click vào button <strong>“Hiển thị toàn bộ thông tin”</strong> để vào màn hình tạo mới Cơ hội với đầy đủ thông tin</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Kết quả sau khi tạo thành công cơ hội</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372311149.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">5. Chăm sóc cơ hội</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong>&nbsp; Tại màn hình chi tiết của Cơ hội, click vào tab <strong>“Hoạt động”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372353663.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u>&nbsp;</strong>Click vào button<strong>&nbsp;“Thêm hoạt động”</strong></p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372384869.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Hệ thống hiển thị form tạo nhanh hoạt động, nhập thông tin hoạt động, sau đó click <strong>"Lưu"</strong> để hoàn tất</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372467203.png" style="width: 538px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;">Sau khi lưu lại, hệ thống sẽ hiển thị thông báo thành công như hình dưới:</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565491336839.jpeg" width="485" class="fr-fic fr-dii" style="width: 386px; height: 69.2352px;" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">6. Chuyển đổi cơ hội</strong></h4>
+
+<p style="text-align: justify;">Phần mềm cho phép bạn chuyển đổi thông tin cơ thành hóa đơn, báo giá hoặc đơn hàng tùy theo nhu cầu của bạn.</p>
+
+<p style="text-align: justify;">Để thực hiện việc chuyển đổi, bạn vui lòng thực hiện theo các bước sau:</p>
+
+<p><strong><u>Bước 1:</u></strong> Mở thông tin chi tiết của cơ hội muốn chuyển đổi</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372535977.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Click dropdown<strong>&nbsp;"Thao tác"</strong> chọn "<strong>Chuyển thành …"</strong></p>
+
+<p><u>Ví dụ:</u> Lựa chọn chuyển thành <strong>Đơn hàng</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565491617305.jpeg" width="595" class="fr-fic fr-dii" data-result="success" style="width: 502px; height: 291.919px;"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u>&nbsp;</strong>Tại màn hình chuyển đổi nhập đầy đủ các thông tin sau đó click button<strong>&nbsp;“Save”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372662150.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:10089:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1D27MQrkXBwWJZuvAxZKLaU-S5wofoGye/preview" width="700" height="400"></iframe></span></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Cơ hội hay còn gọi là Deal bán hàng. Cơ hội ghi nhận một nhu cầu về sản phẩm, dịch vụ của khách hàng mà công ty có thể đáp ứng được.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin cơ hội: giá trị cơ hội, ngày chốt dự kiến, doanh số dự kiến, bước bán hàng, bước tiếp theo ...; người liên hệ tham gia vào cơ hội, báo giá, đơn hàng, hợp đồng, sản phẩm, dịch vụ ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p><strong style="color:red;"><u>Lưu ý:</u></strong></p>
+<ul>
+    <li style="text-align: justify;">Thông tin Bước bán hàng (Sales Stage) của một cơ hội sẽ thể hiện tất cả các bước bán hàng trong quy trình bán hàng của công ty. Vì vậy, module Cơ hội thường được sử dụng và  phù hợp với mô hình kinh doanh B2B (mô hình kinh doanh gồm nhiều bước bán hàng với thời gian kéo dài) còn mô hình kinh doanh B2C thì thường không được áp dụng vì không phù hợp.</li>
+</ul>
+<p>
+    <br>
+</p>
+<ul>
+    <li style="text-align: justify;">Một khách hàng (cá nhân hoặc tổ chức) có thể có một hoặc nhiều cơ hội trong một hoặc nhiều thời điểm khác nhau (các cơ hội có thể ghi nhận cùng một thời điểm hoặc khác thời điểm) do một hoặc nhiều sales phụ trách (các cơ hội có thể đều do một sales phụ trách hoặc các cơ hội được chia ra cho nhiều sales phụ trách).</li>
+</ul>
+<p>
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo nhanh cơ hội</strong></h4>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371903204.png" style="width: 606px;border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: left;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 1)</p>
+<p style="text-align: left;"> </p>
+<h4><strong style="color: #F17029;">2. Tạo mới cơ hội</strong></h4>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566371996600.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+    <br>
+</p>
+<p style="text-align: left;">Bạn tham khảo tại:  <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a> (mục 2) </p>
+<p style="text-align: left;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Tạo cơ hội từ việc chuyển đổi đầu mối</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang" rel="noopener noreferrer" target="_blank">Các thao tác tại module đầu mối trên phần mềm CloudPro</a> (mục 5)</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">4. Tạo cơ hội từ công ty</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Tại màn hình thông tin chi tiết công ty, click vào tab <strong>“Cơ hội”</strong></p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372151991.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Click vào button <strong>“Thêm cơ hội”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372186009.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình tạo mới cơ hội, nhập đầy đủ các thông tin cần thiết, sau đó click<strong> “Lưu” </strong>để hoàn tất</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372265969.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u></strong> Bạn có thể click vào button <strong>“Hiển thị toàn bộ thông tin”</strong> để vào màn hình tạo mới Cơ hội với đầy đủ thông tin</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Kết quả sau khi tạo thành công cơ hội</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372311149.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">5. Chăm sóc cơ hội</strong></h4>
+<p><strong><u>Bước 1:</u></strong>  Tại màn hình chi tiết của Cơ hội, click vào tab <strong>“Hoạt động”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372353663.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u> </strong>Click vào button<strong> “Thêm hoạt động”</strong></p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372384869.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Hệ thống hiển thị form tạo nhanh hoạt động, nhập thông tin hoạt động, sau đó click <strong>"Lưu"</strong> để hoàn tất</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372467203.png" style="width: 538px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;">Sau khi lưu lại, hệ thống sẽ hiển thị thông báo thành công như hình dưới:</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565491336839.jpeg" width="485" class="fr-fic fr-dii" style="width: 386px; height: 69.2352px;" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">6. Chuyển đổi cơ hội</strong></h4>
+<p style="text-align: justify;">Phần mềm cho phép bạn chuyển đổi thông tin cơ thành hóa đơn, báo giá hoặc đơn hàng tùy theo nhu cầu của bạn.</p>
+<p style="text-align: justify;">Để thực hiện việc chuyển đổi, bạn vui lòng thực hiện theo các bước sau:</p>
+<p><strong><u>Bước 1:</u></strong> Mở thông tin chi tiết của cơ hội muốn chuyển đổi</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372535977.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Click dropdown<strong> "Thao tác"</strong> chọn "<strong>Chuyển thành …"</strong></p>
+<p><u>Ví dụ:</u> Lựa chọn chuyển thành <strong>Đơn hàng</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565491617305.jpeg" width="595" class="fr-fic fr-dii" data-result="success" style="width: 502px; height: 291.919px;"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u> </strong>Tại màn hình chuyển đổi nhập đầy đủ các thông tin sau đó click button<strong> “Save”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566372662150.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 02:47:57";s:10:"updated_at";s:19:"2019-08-21 07:39:20";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:4;O:8:"stdClass":23:{s:2:"id";i:147;s:7:"user_id";i:1;s:5:"title";s:47:"Cách lập bảng báo giá với CloudPro CRM";s:4:"slug";s:38:"cach-lap-bang-bao-gia-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:5566:"<div style="text-align: left;">
+	<br>
+</div>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Báo giá là biểu mẫu bao gồm thông tin khách hàng, thông tin sản phẩm, dịch vụ kèm giá bán, điều khoản… để gửi khách hàng tham khảo. Quản lý thông tin báo giá: mã báo giá, ngày báo giá, tình trạng báo giá, khách hàng ... ; chuyển đổi báo giá thành đơn hàng khi khách hàng đồng ý với báo giá, tài liệu đính kèm ...</em></strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">1. Tạo mới báo giá&nbsp;</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Truy cập vào module <strong>Báo giá</strong> tại Menu</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373108700.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Tại màn hình danh sách <strong>Báo giá</strong>, click vào button <strong>“Thêm báo giá”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373225723.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình tạo mới báo giá, nhập các thông tin cần thiết, thêm sản phẩm, dịch vụ cho báo giá tương ứng, sau đó click <strong>“Save”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373640574.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">1: Thông tin về báo giá (tên, công ty, tình trạng, giao cho …)</li>
+		<li style="text-align: justify;">2: Thông tin về địa chỉ giao và xuất hóa đơn</li>
+		<li style="text-align: justify;">3: Thông tin về sản phẩm/dịch vụ của báo giá
+
+			<ul>
+				<li style="text-align: justify;">&nbsp;Click vào button&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565492683947.png" style="width: 27px;" class="fr-fic fr-dib" data-result="success">&nbsp;để lựa chọn sản phẩm</li>
+				<li style="text-align: justify;">Click vào button&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565492659725.png" style="width: 21px;" class="fr-fic fr-dib" data-result="success">&nbsp;để lựa chọn bảng giá phù hợp (mặc định phần mềm để bảng giá mặc định)</li>
+			</ul>
+		</li>
+		<li style="text-align: justify;">4: Thông tin đơn giá/ thành tiền của báo giá</li>
+	</ul>
+</blockquote>
+
+<p><strong><u>Bước 4:</u></strong> Kết quả sau khi tạo thành công Báo giá</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373665579.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Chuyển đổi báo giá</strong></h4>
+
+<p style="text-align: justify;">Mỗi khi báo giá được chấp thuận bởi khách hàng, bạn có thể tạo trực tiếp một đơn hàng hay một hóa đơn. Bạn không cần nhập lại các thông tin chi tiết cho Đơn hàng hay Hóa đơn.</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: justify;">Để chuyển đổi một báo giá thành hóa đơn bạn làm như sau:</p>
+
+<p><strong><u>Bước 1:</u></strong> Mở thông tin chi tiết một báo giá muốn thực hiện việc tạo hóa đơn</p>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Click <strong>“Thao tác”</strong> chọn<strong>&nbsp;“Chuyển thành …”</strong></p>
+
+<p><u>Ví dụ:</u> Chuyển đổi <strong>Báo giá</strong> thành <strong>Hóa đơn</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373711433.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Sửa đổi lại các thông tin (nếu cần) sau đó click button <strong>“Save”</strong></p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373773429.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:5514:"<div style="text-align: left;">
+    <br>
+</div>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Báo giá là biểu mẫu bao gồm thông tin khách hàng, thông tin sản phẩm, dịch vụ kèm giá bán, điều khoản… để gửi khách hàng tham khảo. Quản lý thông tin báo giá: mã báo giá, ngày báo giá, tình trạng báo giá, khách hàng ... ; chuyển đổi báo giá thành đơn hàng khi khách hàng đồng ý với báo giá, tài liệu đính kèm ...</em></strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">1. Tạo mới báo giá </strong></h4>
+<p><strong><u>Bước 1:</u></strong> Truy cập vào module <strong>Báo giá</strong> tại Menu</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373108700.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Tại màn hình danh sách <strong>Báo giá</strong>, click vào button <strong>“Thêm báo giá”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373225723.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình tạo mới báo giá, nhập các thông tin cần thiết, thêm sản phẩm, dịch vụ cho báo giá tương ứng, sau đó click <strong>“Save”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373640574.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">1: Thông tin về báo giá (tên, công ty, tình trạng, giao cho …)</li>
+        <li style="text-align: justify;">2: Thông tin về địa chỉ giao và xuất hóa đơn</li>
+        <li style="text-align: justify;">3: Thông tin về sản phẩm/dịch vụ của báo giá
+
+            <ul>
+                <li style="text-align: justify;"> Click vào button <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565492683947.png" style="width: 27px;" class="fr-fic fr-dib" data-result="success"> để lựa chọn sản phẩm</li>
+                <li style="text-align: justify;">Click vào button <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565492659725.png" style="width: 21px;" class="fr-fic fr-dib" data-result="success"> để lựa chọn bảng giá phù hợp (mặc định phần mềm để bảng giá mặc định)</li>
+            </ul>
+        </li>
+        <li style="text-align: justify;">4: Thông tin đơn giá/ thành tiền của báo giá</li>
+    </ul>
+</blockquote>
+<p><strong><u>Bước 4:</u></strong> Kết quả sau khi tạo thành công Báo giá</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373665579.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Chuyển đổi báo giá</strong></h4>
+<p style="text-align: justify;">Mỗi khi báo giá được chấp thuận bởi khách hàng, bạn có thể tạo trực tiếp một đơn hàng hay một hóa đơn. Bạn không cần nhập lại các thông tin chi tiết cho Đơn hàng hay Hóa đơn.</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: justify;">Để chuyển đổi một báo giá thành hóa đơn bạn làm như sau:</p>
+<p><strong><u>Bước 1:</u></strong> Mở thông tin chi tiết một báo giá muốn thực hiện việc tạo hóa đơn</p>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Click <strong>“Thao tác”</strong> chọn<strong> “Chuyển thành …”</strong></p>
+<p><u>Ví dụ:</u> Chuyển đổi <strong>Báo giá</strong> thành <strong>Hóa đơn</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373711433.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Sửa đổi lại các thông tin (nếu cần) sau đó click button <strong>“Save”</strong></p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566373773429.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 03:04:58";s:10:"updated_at";s:19:"2019-08-21 08:06:10";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:5;O:8:"stdClass":23:{s:2:"id";i:148;s:7:"user_id";i:1;s:5:"title";s:59:"Quản lý đơn hàng đơn giản hơn với CloudPro CRM";s:4:"slug";s:46:"quan-ly-don-hang-don-gian-hon-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:4364:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1GvYTQ3RFfXhIRwcjl7xDwgZvszCk5fRO/preview" width="700" height="400"></iframe></span></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Đơn hàng là biểu mẫu ghi nhận lại thỏa thuận bán hàng (sản phẩm, số lượng, đơn giá, thành tiền …) cho khách hàng của công ty. Quản lý thông tin đơn hàng: &nbsp;mã đơn hàng, ngày đơn hàng, tình trạng đơn hàng, khách hàng, sản phẩm, số lượng, đơn giá, thành tiền ...; hóa đơn, tài liệu đính kèm ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới đơn hàng</strong></h4>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442442936.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/cach-lap-bang-bao-gia-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank"><strong>Cách lập bảng báo giá với CloudPro CRM</strong></a><strong>&nbsp;(mục 1, mục 2)</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Chuyển đổi đơn hàng</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Mở đơn hàng muốn chuyển đổi tại màn hình danh sách</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442509704.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Tại màn hình chi tiết đơn hàng, click vào <strong>“Thao tác”</strong> lựa chọn chuyển đổi thành <strong>Hóa đơn hoặc Đơn hàng mua</strong></p>
+
+<p><u>Ví dụ:</u> chuyển đổi thành Hóa đơn</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442628587.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình chuyển đổi, nhập hoặc chỉnh sửa lại các thông tin cần thiết, sau đó click <strong>“Save”</strong> để hoàn tất</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442734264.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 4:</u></strong> Kết quả sau khi chuyển đổi Đơn hàng thành Hóa đơn</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442783879.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:4271:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1GvYTQ3RFfXhIRwcjl7xDwgZvszCk5fRO/preview" width="700" height="400"></iframe></span></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Đơn hàng là biểu mẫu ghi nhận lại thỏa thuận bán hàng (sản phẩm, số lượng, đơn giá, thành tiền …) cho khách hàng của công ty. Quản lý thông tin đơn hàng:  mã đơn hàng, ngày đơn hàng, tình trạng đơn hàng, khách hàng, sản phẩm, số lượng, đơn giá, thành tiền ...; hóa đơn, tài liệu đính kèm ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới đơn hàng</strong></h4>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong style="color: #F17029;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442442936.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;">Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/cach-lap-bang-bao-gia-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank"><strong>Cách lập bảng báo giá với CloudPro CRM</strong></a><strong> (mục 1, mục 2)</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Chuyển đổi đơn hàng</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Mở đơn hàng muốn chuyển đổi tại màn hình danh sách</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442509704.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Tại màn hình chi tiết đơn hàng, click vào <strong>“Thao tác”</strong> lựa chọn chuyển đổi thành <strong>Hóa đơn hoặc Đơn hàng mua</strong></p>
+<p><u>Ví dụ:</u> chuyển đổi thành Hóa đơn</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442628587.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại màn hình chuyển đổi, nhập hoặc chỉnh sửa lại các thông tin cần thiết, sau đó click <strong>“Save”</strong> để hoàn tất</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442734264.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 4:</u></strong> Kết quả sau khi chuyển đổi Đơn hàng thành Hóa đơn</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566442783879.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 03:41:25";s:10:"updated_at";s:19:"2019-08-22 03:02:21";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:6;O:8:"stdClass":23:{s:2:"id";i:149;s:7:"user_id";i:1;s:5:"title";s:65:"Lập hoá đơn nhanh chóng và tiện lợi với CloudPro CRM";s:4:"slug";s:52:"lap-hoa-don-nhanh-chong-va-tien-loi-voi-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:2817:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1mluO10wC3rxD5G-qFJPR4qWry9ZJsCM2/preview" width="700" height="400"></iframe></span></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Hóa đơn là một loại chứng từ thương mại được bên bán cung cấp cho bên mua, trong đó kê khai những thông tin về chủng loại, số lượng, giá thành của loại hàng hóa hoặc dịch vụ được giao cho bên mua. Các điều khoản thanh toán sẽ được ghi cụ thể trong hóa đơn (như thời hạn thanh toán, số dư nợ, chiết khấu, v.v). Nó sẽ được coi là hóa đơn bán hàng với bên bán và hóa đơn mua hàng với bên mua.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin hoá đơn: mã hóa đơn, ngày hóa đơn, khách hàng, sản phẩm, số lượng, đơn &nbsp;giá, thành tiền, tình trạng chưa thanh toán/đã thanh toán ...</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới hóa đơn</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/cach-lap-bang-bao-gia-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách lập bảng báo giá với CloudPro CRM</a> (mục 1, mục 2)</p>
+
+<p>&nbsp;</p>
+
+<h4><strong style="color: #F17029;">2. Chuyển đổi hóa đơn</strong></h4>
+
+<p>Thao tác tương tự như việc chuyển đổi Đơn hàng hay chuyển đổi Báo giá:<a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/cach-lap-bang-bao-gia-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank">&nbsp;Chuyển đổi báo giá</a> (mục 3), <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/quan-ly-don-hang-don-gian-hon-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank">Chuyển đổi đơn hàng</a> (mục 2)</p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:2761:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1mluO10wC3rxD5G-qFJPR4qWry9ZJsCM2/preview" width="700" height="400"></iframe></span></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Hóa đơn là một loại chứng từ thương mại được bên bán cung cấp cho bên mua, trong đó kê khai những thông tin về chủng loại, số lượng, giá thành của loại hàng hóa hoặc dịch vụ được giao cho bên mua. Các điều khoản thanh toán sẽ được ghi cụ thể trong hóa đơn (như thời hạn thanh toán, số dư nợ, chiết khấu, v.v). Nó sẽ được coi là hóa đơn bán hàng với bên bán và hóa đơn mua hàng với bên mua.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Quản lý thông tin hoá đơn: mã hóa đơn, ngày hóa đơn, khách hàng, sản phẩm, số lượng, đơn  giá, thành tiền, tình trạng chưa thanh toán/đã thanh toán ...</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới hóa đơn</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/cach-lap-bang-bao-gia-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách lập bảng báo giá với CloudPro CRM</a> (mục 1, mục 2)</p>
+<p> </p>
+<h4><strong style="color: #F17029;">2. Chuyển đổi hóa đơn</strong></h4>
+<p>Thao tác tương tự như việc chuyển đổi Đơn hàng hay chuyển đổi Báo giá:<a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/cach-lap-bang-bao-gia-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank"> Chuyển đổi báo giá</a> (mục 3), <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-ban-hang/quan-ly-don-hang-don-gian-hon-voi-cloudpro-crm" rel="noopener noreferrer" target="_blank">Chuyển đổi đơn hàng</a> (mục 2)</p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 04:07:25";s:10:"updated_at";s:19:"2019-08-11 04:07:25";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:7;O:8:"stdClass":23:{s:2:"id";i:150;s:7:"user_id";i:1;s:5:"title";s:57:"Xây dựng hợp đồng trên phần mềm CloudPro CRM";s:4:"slug";s:44:"xay-dung-hop-dong-tren-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:2107:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1ExYuXY4lAdlqqBUOx4KCaAidWgCEADbx/preview" width="700" height="400"></iframe></span></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Hợp đồng là một bản cam kết giữa công ty và khách hàng nhằm thực hiện một số nội dung mà hai bên thống nhất. Quản lý thông tin cơ bản của Hợp đồng: tên hợp đồng, số hợp đồng, khách hàng, ngày bắt đầu, ngày hết hạn, điều khoản …; đính kèm file hợp đồng.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới hợp đồng DV</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+
+<p>&nbsp;</p>
+
+<h4><strong style="color: #F17029;">2. Import Hợp đồng DV</strong></h4>
+
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>
+
+<p>&nbsp;</p>";s:12:"content_html";s:2055:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1ExYuXY4lAdlqqBUOx4KCaAidWgCEADbx/preview" width="700" height="400"></iframe></span></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Hợp đồng là một bản cam kết giữa công ty và khách hàng nhằm thực hiện một số nội dung mà hai bên thống nhất. Quản lý thông tin cơ bản của Hợp đồng: tên hợp đồng, số hợp đồng, khách hàng, ngày bắt đầu, ngày hết hạn, điều khoản …; đính kèm file hợp đồng.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr"><strong style="color: #F17029;">1. Tạo mới hợp đồng DV</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/lam-nao-de-tao-du-lieu-moi-tren-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Làm thế nào để tạo dữ liệu mới trên phần mềm CloudPro CRM</a></p>
+<p> </p>
+<h4><strong style="color: #F17029;">2. Import Hợp đồng DV</strong></h4>
+<p>Bạn tham khảo tại: <a href="https://support.cloudpro.vn/guide-crm-tieu-chuan/huong-dan-chung/cach-import-du-lieu-vao-phan-mem-cloudpro-crm" rel="noopener noreferrer" target="_blank">Cách Import dữ liệu vào phần mềm CloudPro CRM</a></p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>
+<p> </p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-11 04:16:29";s:10:"updated_at";s:19:"2019-08-11 04:16:29";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}}

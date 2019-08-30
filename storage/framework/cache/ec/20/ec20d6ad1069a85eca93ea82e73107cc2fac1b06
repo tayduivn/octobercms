@@ -1,0 +1,81 @@
+1567150127a:1:{s:12:"homepage.htm";a:16:{s:8:"fileName";s:12:"homepage.htm";s:7:"content";s:1573:"title = "Trang chủ"
+url = "/"
+layout = "noSidebar"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeTitle[en] = "Homepage"
+
+[blogPosts postsCauHoiThuongGap]
+pageNumber = "{{ :page }}"
+locationFilter = "hien-thi-o-cau-hoi-thuong-gap"
+postsPerPage = 8
+noPostsMessage = "No posts found"
+sortOrder = "published_at asc"
+
+[postsCategory postsCategoryCrmTieuChuan]
+postsPerColumn = 50
+sortOrder = "ordinal asc"
+parent = "guide-crm-tieu-chuan"
+categoryPage = "post"
+postPage = "post"
+
+[postsCategory postsCategoryCrmTheoNganh]
+postsPerColumn = 50
+sortOrder = "ordinal asc"
+parent = "guide-crm-theo-nganh"
+categoryPage = "post"
+postPage = "post"
+
+[blogPosts postsVideo]
+pageNumber = "{{ :page }}"
+locationFilter = "hien-thi-o-video-huong-dan-trang-chu"
+postsPerPage = 5
+noPostsMessage = "No posts found"
+sortOrder = "published_at asc"
+==
+<?php
+function onStart()
+{
+$this->addCss('assets/css/homePage.css');
+$this->addCss('assets/css/dropdownFaqsHome.css');
+$this->addCss('assets/css/videoGuideHome.css');
+$this->addCss('assets/css/GuideColumn.css');
+$this->addJs('assets/js/dropdownFaqsHome.js');
+$this->addJs('assets/js/videoGuideHome.js');
+$this->addJs('assets/js/videoModalHome.js');
+$this->addJs('assets/js/GuideColumn.js');
+}
+?>
+==
+<main>
+    <!--Main layout--> 
+    <!-- Câu hỏi thường gặp -->     
+    {% partial 'homePage/cauHoiThuongGap' %}
+    <!-- Hướng dẫn sử dụng -->
+    {% partial 'homePage/taiLieuHuongDan' %}
+    <!-- Video hướng dẫn -->
+    {% partial 'homePage/videoHuongDan' %}
+    <!--/.Main layout-->
+</main>";s:5:"mtime";i:1566890439;s:6:"markup";s:315:"<main>
+    <!--Main layout--> 
+    <!-- Câu hỏi thường gặp -->     
+    {% partial 'homePage/cauHoiThuongGap' %}
+    <!-- Hướng dẫn sử dụng -->
+    {% partial 'homePage/taiLieuHuongDan' %}
+    <!-- Video hướng dẫn -->
+    {% partial 'homePage/videoHuongDan' %}
+    <!--/.Main layout-->
+</main>";s:4:"code";s:386:"function onStart()
+{
+$this->addCss('assets/css/homePage.css');
+$this->addCss('assets/css/dropdownFaqsHome.css');
+$this->addCss('assets/css/videoGuideHome.css');
+$this->addCss('assets/css/GuideColumn.css');
+$this->addJs('assets/js/dropdownFaqsHome.js');
+$this->addJs('assets/js/videoGuideHome.js');
+$this->addJs('assets/js/videoModalHome.js');
+$this->addJs('assets/js/GuideColumn.js');
+}";s:5:"title";s:11:"Trang chủ";s:3:"url";s:1:"/";s:6:"layout";s:9:"noSidebar";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:1:{s:11:"localeTitle";a:1:{s:2:"en";s:8:"Homepage";}}s:30:"blogPosts postsCauHoiThuongGap";a:5:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"locationFilter";s:29:"hien-thi-o-cau-hoi-thuong-gap";s:12:"postsPerPage";s:1:"8";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:16:"published_at asc";}s:39:"postsCategory postsCategoryCrmTieuChuan";a:5:{s:14:"postsPerColumn";s:2:"50";s:9:"sortOrder";s:11:"ordinal asc";s:6:"parent";s:20:"guide-crm-tieu-chuan";s:12:"categoryPage";s:4:"post";s:8:"postPage";s:4:"post";}s:39:"postsCategory postsCategoryCrmTheoNganh";a:5:{s:14:"postsPerColumn";s:2:"50";s:9:"sortOrder";s:11:"ordinal asc";s:6:"parent";s:20:"guide-crm-theo-nganh";s:12:"categoryPage";s:4:"post";s:8:"postPage";s:4:"post";}s:20:"blogPosts postsVideo";a:5:{s:10:"pageNumber";s:11:"{{ :page }}";s:14:"locationFilter";s:36:"hien-thi-o-video-huong-dan-trang-chu";s:12:"postsPerPage";s:1:"5";s:14:"noPostsMessage";s:14:"No posts found";s:9:"sortOrder";s:16:"published_at asc";}}}

@@ -1,0 +1,2156 @@
+1567146218a:5:{i:0;O:8:"stdClass":23:{s:2:"id";i:128;s:7:"user_id";i:1;s:5:"title";s:60:"Hướng dẫn phân quyền trên phần mềm CloudPro CRM";s:4:"slug";s:47:"huong-dan-phan-quyen-tren-phan-mem-cloudpro-crm";s:7:"excerpt";s:0:"";s:7:"content";s:12537:"<p dir="ltr" style="text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1yB-6lEmNaJDTJqdIJW_0IRX39HQtn8a4/preview" style="width: 700px; height: 412px;"></iframe></span>
+	<br>
+</p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Để kiểm soát hoạt động của tất cả người dùng đồng thời bảo mật được dữ liệu trên phần mềm&nbsp;</em></strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong><strong style="color:#057BC3;">&nbsp;</strong></em><em><strong>CRM</strong></em><strong><em>, chủ doanh nghiệp hoặc nhà quản lý có thể tùy chọn các thao tác mà nhân viên có thể thực hiện bằng tính năng Phân quyền người dùng. Mỗi người dùng sẽ được phân một vai trò nhất định trên phần mềm.</em></strong></p>
+
+<p style="text-align: justify;"><em><strong><br></strong></em></p>
+
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Để phân quyền trên&nbsp;</em></strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro&nbsp;</strong></em><em><strong>CRM&nbsp;</strong></em><strong><em>trước tiên bạn cần đăng nhập vào tài khoản của người quản trị hoặc tài khoản hỗ trợ chức năng phân quyền (admin). Sau đó bạn cần tạo các vai trò tương ứng với cơ cấu tổ chức của công ty hay doanh nghiệp bạn.</em></strong></p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<h4 dir="ltr" style="text-align: justify;"><strong style="color: #F17029;">1. Quản lý vai trò</strong></h4>
+
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Tại trang chủ vào mục<strong>&nbsp;Cài đặt &gt; Quản lý người dùng</strong></p>
+
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566352440163.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr"><u><strong>Bước 2:</strong></u>&nbsp; Nhấn mục<strong>&nbsp;Vai trò&nbsp;</strong></p>
+
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566352508388.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại giao diện vai trò bạn sẽ tiến hành thêm mới một vài trò. Tại đây bạn cần thiết lập các thông tin như sau:</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;"><strong>Tên</strong>: Bắt buộc nhập tên vai trò</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;"><strong>Báo cáo cho</strong>: Người giữ vai trò này sẽ báo cáo công việc cho ai.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;"><strong>Có thể giao việc cho</strong>: Người giữ vai trò này có thể giao việc cho những ai. Có 3 lựa chọn: &nbsp;Tất cả mọi người, Cùng cấp và cấp dưới hoặc Cấp dưới.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;"><strong>Phân quyền truy cập</strong>: Tại đây bạn có 2 cách phân quyền có thể lựa chọn:</p>
+
+		<ul>
+			<li dir="ltr">
+
+				<p dir="ltr">Phân quyền trực tiếp cho vai trò.</p>
+			</li>
+			<li dir="ltr">
+
+				<p dir="ltr">Phân quyền dựa trên quyền truy cập đã có.</p>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: center;"><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321514908.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></em></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 4:</strong></u> Nhấn Lưu để lưu vai trò.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 5:&nbsp;</strong></u>Tại menu Vai trò bạn tiến hành kéo thả các vai trò để sắp xếp cấp bậc cho từng vai trò phù hợp với cơ cấu tổ chức của doanh nghiệp. Vai trò nằm ngoài là vai trò có cấp bậc cao hơn.</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321580698.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Phân quyền truy cập</strong></h4>
+
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 1:&nbsp;</strong></u>Trong menu Quản lý người dùng chọn mục <strong>Phân quyền truy cập &gt; Thêm quyền truy cập</strong> để thêm quyền truy cập mới.&nbsp;</p>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321634751.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 2:</strong></u> Tại menu thêm quyền truy cập, bạn thiết lập các thông tin cần thiết sau:</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Tên quyền truy cập: Bắt buộc nhập tên quyền truy cập.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Mô tả: Mô tả chi tiết cho quyền truy cập đang thiết lập.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr" style="text-align: justify;">Sửa quyền: Chọn các modules và các thao tác mà quyền truy cập này được phép sử dụng.</p>
+
+		<ul>
+			<li dir="ltr">
+
+				<p dir="ltr" style="text-align: justify;">Với modules sẽ có các thao tác: Xem, Thêm mới, Sửa, Xóa.</p>
+			</li>
+			<li dir="ltr">
+
+				<p dir="ltr" style="text-align: justify;">Với các trường dữ liệu sẽ có các quyền truy cập:</p>
+
+				<ul>
+					<li dir="ltr">
+
+						<p dir="ltr" style="text-align: justify;">Ẩn:&nbsp;Không hiển thị dữ liệu với người được phân quyền.</p>
+					</li>
+					<li dir="ltr">
+
+						<p dir="ltr" style="text-align: justify;">Chỉ xem:&nbsp;Hiển thị dữ liệu với người được phân quyền này nhưng không cho phép chỉnh sửa.</p>
+					</li>
+					<li dir="ltr">
+
+						<p dir="ltr" style="text-align: justify;">Sửa:&nbsp;Cho phép người được phân quyền này có thể chỉnh sửa dữ liệu.</p>
+					</li>
+					<li dir="ltr">
+
+						<p dir="ltr" style="text-align: justify;">Nhập từ file:&nbsp;Cho phép người được phân quyền này có thể nhập dữ liệu từ file bên ngoài vào hệ thống.</p>
+					</li>
+					<li dir="ltr">
+
+						<p dir="ltr" style="text-align: justify;">Xuất dữ liệu:&nbsp;Cho phép người được phân quyền này có thể xuất dữ liệu thành file.</p>
+					</li>
+					<li dir="ltr">
+
+						<p dir="ltr" style="text-align: justify;">Kiểm tra trùng: Cho phép người được phân quyền này có thể kiểm tra trùng của dữ liệu.</p>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321821189.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><u>Ví dụ 1:</u> Với vai trò là nhân viên Bán hàng có thể truy cập vào modules Bán hàng với các thao tác thêm, xóa , sửa. Mục mua hàng sẽ được ẩn để không thao tác.</p>
+
+<p dir="ltr" style="text-align: justify;"><u>Ví dụ 2:</u> Với vai trò là nhân viên Marketing có thể truy cập vào modules Marketing với các thao tác thêm, xóa , sửa. Ngoài ra nhân viên Marketing có thể truy cập vào modules Bán hàng để xem (chỉ xem mà không được xóa, sửa) các thông tin như đầu mối, người liên hệ phục vụ cho các chiến dịch Marketing.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 4:</strong></u> Nhấn<strong>&nbsp;"Lưu"</strong> để lưu quyền truy cập.</p>
+
+<p dir="ltr" style="text-align: justify;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Phân quyền chia sẻ</strong></h4>
+
+<p dir="ltr" style="text-align: justify;">Phân quyền chia sẻ giúp những người có những vai trò khác nhau có thể chia sẻ thông tin cho nhau nhằm phục vụ tốt nhất cho công việc.</p>
+
+<p style="text-align: justify;">Thực hiện phân quyền chia sẻ của modules nào thì modules đó phải được bật ở trạng thái Công khai, những Modules có trạng thái Riêng tư sẽ không được phép chia sẻ. Bạn có thể thay đổi trạng thái từng modules tại mục <strong>Quản lý người dùng &gt; Phân quyền</strong> chia sẻ và chọn trạng thái cho từng modules. Các trạng thái có thể chọn bao gồm:</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr">Công khai: Cho phép chia sẻ công khai với những các thao tác sau:</p>
+
+		<ul>
+			<li dir="ltr">
+
+				<p dir="ltr">Xem</p>
+			</li>
+			<li dir="ltr">
+
+				<p dir="ltr">Tạo/Sửa</p>
+			</li>
+			<li dir="ltr">
+
+				<p dir="ltr">Xóa</p>
+			</li>
+		</ul>
+	</li>
+	<li dir="ltr">Riêng tư: Không cho phép chia sẻ.</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: justify;">Sau khi đã chọn trạng thái cho từng modules, bạn có thể phân quyền chia sẻ với những bước sau:</p>
+
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 1:</strong></u> Tại mục <strong>Chia sẻ quyền nâng cao</strong> trong giao diện của <strong>Phân quyền chia sẻ</strong> chọn dấu nút có mũi tên xuống của modules muốn phân quyền để hiện menu <strong>Chia sẻ quyền nâng cao</strong>, sau đó chọn <strong>Thêm quyền</strong>.</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565322107655.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr"><u><strong>Bước 2:</strong></u> Thiết lập các thông tin cần thiết để thêm quyền chia sẻ:</p>
+
+<ul>
+	<li dir="ltr">
+
+		<p dir="ltr">Vai trò/nhóm người chia sẻ và vai trò/nhóm người được chia sẻ.</p>
+	</li>
+	<li dir="ltr">
+
+		<p dir="ltr">Với quyền: Các quyền muốn chia sẻ.</p>
+	</li>
+</ul>
+
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566352776666.png" style="width: 480px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p dir="ltr" style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: left;"><u><strong>Bước 3:</strong></u> Nhấn <strong>"Lưu"</strong> để lưu quyền chia sẻ.</p>
+
+<p dir="ltr" style="text-align: left;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: left;">
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:12883:"<p dir="ltr" style="text-align: center;"><span class="fr-video fr-dvb fr-draggable" contenteditable="false" draggable="true"><iframe src="https://drive.google.com/file/d/1yB-6lEmNaJDTJqdIJW_0IRX39HQtn8a4/preview" style="width: 700px; height: 412px;"></iframe></span>
+    <br>
+</p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Để kiểm soát hoạt động của tất cả người dùng đồng thời bảo mật được dữ liệu trên phần mềm </em></strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong><strong style="color:#057BC3;"> </strong></em><em><strong>CRM</strong></em><strong><em>, chủ doanh nghiệp hoặc nhà quản lý có thể tùy chọn các thao tác mà nhân viên có thể thực hiện bằng tính năng Phân quyền người dùng. Mỗi người dùng sẽ được phân một vai trò nhất định trên phần mềm.</em></strong></p>
+<p style="text-align: justify;"><em><strong><br></strong></em></p>
+<p dir="ltr" style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Để phân quyền trên </em></strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro </strong></em><em><strong>CRM </strong></em><strong><em>trước tiên bạn cần đăng nhập vào tài khoản của người quản trị hoặc tài khoản hỗ trợ chức năng phân quyền (admin). Sau đó bạn cần tạo các vai trò tương ứng với cơ cấu tổ chức của công ty hay doanh nghiệp bạn.</em></strong></p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<h4 dir="ltr" style="text-align: justify;"><strong style="color: #F17029;">1. Quản lý vai trò</strong></h4>
+<p dir="ltr"><u><strong>Bước 1:</strong></u> Tại trang chủ vào mục<strong> Cài đặt &gt; Quản lý người dùng</strong></p>
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566352440163.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr"><u><strong>Bước 2:</strong></u>  Nhấn mục<strong> Vai trò </strong></p>
+<p dir="ltr" style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566352508388.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><strong><u>Bước 3:</u></strong> Tại giao diện vai trò bạn sẽ tiến hành thêm mới một vài trò. Tại đây bạn cần thiết lập các thông tin như sau:</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;"><strong>Tên</strong>: Bắt buộc nhập tên vai trò</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;"><strong>Báo cáo cho</strong>: Người giữ vai trò này sẽ báo cáo công việc cho ai.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;"><strong>Có thể giao việc cho</strong>: Người giữ vai trò này có thể giao việc cho những ai. Có 3 lựa chọn:  Tất cả mọi người, Cùng cấp và cấp dưới hoặc Cấp dưới.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;"><strong>Phân quyền truy cập</strong>: Tại đây bạn có 2 cách phân quyền có thể lựa chọn:</p>
+
+        <ul>
+            <li dir="ltr">
+
+                <p dir="ltr">Phân quyền trực tiếp cho vai trò.</p>
+            </li>
+            <li dir="ltr">
+
+                <p dir="ltr">Phân quyền dựa trên quyền truy cập đã có.</p>
+            </li>
+        </ul>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: center;"><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321514908.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></em></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 4:</strong></u> Nhấn Lưu để lưu vai trò.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 5: </strong></u>Tại menu Vai trò bạn tiến hành kéo thả các vai trò để sắp xếp cấp bậc cho từng vai trò phù hợp với cơ cấu tổ chức của doanh nghiệp. Vai trò nằm ngoài là vai trò có cấp bậc cao hơn.</p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321580698.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Phân quyền truy cập</strong></h4>
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 1: </strong></u>Trong menu Quản lý người dùng chọn mục <strong>Phân quyền truy cập &gt; Thêm quyền truy cập</strong> để thêm quyền truy cập mới. </p>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321634751.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 2:</strong></u> Tại menu thêm quyền truy cập, bạn thiết lập các thông tin cần thiết sau:</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Tên quyền truy cập: Bắt buộc nhập tên quyền truy cập.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Mô tả: Mô tả chi tiết cho quyền truy cập đang thiết lập.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr" style="text-align: justify;">Sửa quyền: Chọn các modules và các thao tác mà quyền truy cập này được phép sử dụng.</p>
+
+        <ul>
+            <li dir="ltr">
+
+                <p dir="ltr" style="text-align: justify;">Với modules sẽ có các thao tác: Xem, Thêm mới, Sửa, Xóa.</p>
+            </li>
+            <li dir="ltr">
+
+                <p dir="ltr" style="text-align: justify;">Với các trường dữ liệu sẽ có các quyền truy cập:</p>
+
+                <ul>
+                    <li dir="ltr">
+
+                        <p dir="ltr" style="text-align: justify;">Ẩn: Không hiển thị dữ liệu với người được phân quyền.</p>
+                    </li>
+                    <li dir="ltr">
+
+                        <p dir="ltr" style="text-align: justify;">Chỉ xem: Hiển thị dữ liệu với người được phân quyền này nhưng không cho phép chỉnh sửa.</p>
+                    </li>
+                    <li dir="ltr">
+
+                        <p dir="ltr" style="text-align: justify;">Sửa: Cho phép người được phân quyền này có thể chỉnh sửa dữ liệu.</p>
+                    </li>
+                    <li dir="ltr">
+
+                        <p dir="ltr" style="text-align: justify;">Nhập từ file: Cho phép người được phân quyền này có thể nhập dữ liệu từ file bên ngoài vào hệ thống.</p>
+                    </li>
+                    <li dir="ltr">
+
+                        <p dir="ltr" style="text-align: justify;">Xuất dữ liệu: Cho phép người được phân quyền này có thể xuất dữ liệu thành file.</p>
+                    </li>
+                    <li dir="ltr">
+
+                        <p dir="ltr" style="text-align: justify;">Kiểm tra trùng: Cho phép người được phân quyền này có thể kiểm tra trùng của dữ liệu.</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565321821189.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><u>Ví dụ 1:</u> Với vai trò là nhân viên Bán hàng có thể truy cập vào modules Bán hàng với các thao tác thêm, xóa , sửa. Mục mua hàng sẽ được ẩn để không thao tác.</p>
+<p dir="ltr" style="text-align: justify;"><u>Ví dụ 2:</u> Với vai trò là nhân viên Marketing có thể truy cập vào modules Marketing với các thao tác thêm, xóa , sửa. Ngoài ra nhân viên Marketing có thể truy cập vào modules Bán hàng để xem (chỉ xem mà không được xóa, sửa) các thông tin như đầu mối, người liên hệ phục vụ cho các chiến dịch Marketing.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 4:</strong></u> Nhấn<strong> "Lưu"</strong> để lưu quyền truy cập.</p>
+<p dir="ltr" style="text-align: justify;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Phân quyền chia sẻ</strong></h4>
+<p dir="ltr" style="text-align: justify;">Phân quyền chia sẻ giúp những người có những vai trò khác nhau có thể chia sẻ thông tin cho nhau nhằm phục vụ tốt nhất cho công việc.</p>
+<p style="text-align: justify;">Thực hiện phân quyền chia sẻ của modules nào thì modules đó phải được bật ở trạng thái Công khai, những Modules có trạng thái Riêng tư sẽ không được phép chia sẻ. Bạn có thể thay đổi trạng thái từng modules tại mục <strong>Quản lý người dùng &gt; Phân quyền</strong> chia sẻ và chọn trạng thái cho từng modules. Các trạng thái có thể chọn bao gồm:</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr">Công khai: Cho phép chia sẻ công khai với những các thao tác sau:</p>
+
+        <ul>
+            <li dir="ltr">
+
+                <p dir="ltr">Xem</p>
+            </li>
+            <li dir="ltr">
+
+                <p dir="ltr">Tạo/Sửa</p>
+            </li>
+            <li dir="ltr">
+
+                <p dir="ltr">Xóa</p>
+            </li>
+        </ul>
+    </li>
+    <li dir="ltr">Riêng tư: Không cho phép chia sẻ.</li>
+</ul>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: justify;">Sau khi đã chọn trạng thái cho từng modules, bạn có thể phân quyền chia sẻ với những bước sau:</p>
+<p dir="ltr" style="text-align: justify;"><u><strong>Bước 1:</strong></u> Tại mục <strong>Chia sẻ quyền nâng cao</strong> trong giao diện của <strong>Phân quyền chia sẻ</strong> chọn dấu nút có mũi tên xuống của modules muốn phân quyền để hiện menu <strong>Chia sẻ quyền nâng cao</strong>, sau đó chọn <strong>Thêm quyền</strong>.</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1565322107655.jpeg" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dii" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr"><u><strong>Bước 2:</strong></u> Thiết lập các thông tin cần thiết để thêm quyền chia sẻ:</p>
+<ul>
+    <li dir="ltr">
+
+        <p dir="ltr">Vai trò/nhóm người chia sẻ và vai trò/nhóm người được chia sẻ.</p>
+    </li>
+    <li dir="ltr">
+
+        <p dir="ltr">Với quyền: Các quyền muốn chia sẻ.</p>
+    </li>
+</ul>
+<p dir="ltr" style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566352776666.png" style="width: 480px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p dir="ltr" style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: left;"><u><strong>Bước 3:</strong></u> Nhấn <strong>"Lưu"</strong> để lưu quyền chia sẻ.</p>
+<p dir="ltr" style="text-align: left;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: left;">
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em> - Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-13 17:00:00";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-09 03:30:08";s:10:"updated_at";s:19:"2019-08-22 02:24:34";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:11;s:8:"location";s:7:"default";}i:1;O:8:"stdClass":23:{s:2:"id";i:196;s:7:"user_id";i:1;s:5:"title";s:40:"Hướng dẫn quản lý Người dùng";s:4:"slug";s:28:"huong-dan-quan-ly-nguoi-dung";s:7:"excerpt";s:0:"";s:7:"content";s:18447:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Người dùng là nhân viên trong tổ chức của bạn có thể đăng nhập vào tài khoản CRM của họ, truy cập thông tin và thực hiện các tác vụ theo các quyền đã được xác định cho họ. CRM hỗ trợ hai loại người dùng là Người dùng chuẩn và Người dùng quản trị.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><em><strong style="color:#A90702;"><u>Chú thích:</u></strong></em><strong><em>&nbsp;Chỉ người dùng quản trị mới có đặc quyền truy cập trang cài đặt và thêm người dùng mới vào CRM.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p>Click chuột vào biểu tượng&nbsp;<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566550921399.png" data-result="success" class="fr-fic fr-dib"> góc phải phía trên của màn hình, sau đó chọn <strong>“Quản lý người dùng”</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566468791953.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success">
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">1. Tạo mới người dùng</strong></h4>
+
+<p><strong><u>Bước 1:</u>&nbsp;</strong>Click button <strong>"Thêm người dùng"</strong></p>
+
+<p>
+	<br>
+</p>
+<div style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566469071358.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></div>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u>&nbsp;</strong>Nhập thông tin username, mật khẩu, email,… Sau đó click button <strong>"Lưu"</strong> để tiến hành tạo mới tài khoản</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: left;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566469428465.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u></strong> Những ô có tích dấu “<strong style="color:red;">*</strong>” là những ô bắt buộc nhập thông tin.</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">Bạn có thể chỉnh sửa lại thông tin người dùng bằng click vào Button <strong>Sửa.</strong></li>
+		<li style="text-align: justify;">Các thông tin chi tiết khác có thể điền bởi người dùng tương ứng sau khi đăng nhập vào hệ thống.</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Thay đổi tên người dùng</strong></h4>
+
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Trong màn hình danh sách User, chọn vào biểu tượng&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554221014.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">ở đầu dòng User, click vào <strong>"Đổi tên truy cập"</strong></p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566784728897.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Tại màn hình Popup thay đổi tên truy cập, nhập tên truy cập mới và mật khẩu, sau đó click button <strong>"Lưu"&nbsp;</strong>để hoàn tất</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566784854712.png" style="width: 611px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Thay đổi mật khẩu người dùng</strong></h4>
+
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Trong màn hình danh sách User, chọn vào biểu tượng&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554221014.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">ở đầu dòng User, click vào <strong>"Đổi mật khẩu"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566789004930.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Popup <strong>"Đổi mật khẩu"</strong> hiện lên, tiến hành nhập mật khẩu mới, sau đó click button <strong>"Lưu"</strong> để lưu lại</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566789130214.png" style="width: 541px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">4. Thay đổi quyền quản lý</strong></h4>
+
+<p><strong style="color: #057BC3;">&nbsp; &nbsp; &nbsp;4.1. Cung cấp quyền sở hữu</strong></p>
+
+<p style="text-align: justify;"><u><strong>Bước 1:</strong></u> Click vào icon&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566550853146.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success"> chọn <strong>"Đổi người quản lý"</strong>.</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566551038493.png" style="width: 611px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u>&nbsp;</strong>Tại màn hình Popup, lựa chọn user bạn muốn chuyển quyền sở hữu</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566551205371.png" style="width: 598px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u>&nbsp;</strong>User được chuyển quyền quản lý phải được cấp quyền <strong>"Quản trị hệ thống"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566552525272.png" style="width: 368px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Click <strong>"Lưu"&nbsp;</strong>để hoàn tất.</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p><strong style="color: #057BC3;">&nbsp; &nbsp; &nbsp;4.2. Chuyển giao dữ liệu cho nhân viên</strong></p>
+
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Trong màn hình danh sách User, chọn vào biểu tượng&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554221014.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">đầu dòng User có quyền quản lý (đã nghỉ việc), sau đó chọn <strong>"Xóa"</strong></p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554334734.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Popup cảnh báo hiện lên, bạn chọn <strong>"Yes"&nbsp;</strong>để tiếp tục thực hiện Xóa User</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554508185.png" style="width: 541px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Popup <strong>"Chuyển đổi hồ sơ"&nbsp;</strong>hiện lên, nhập các thông tin, sau đó click button <strong>"Lưu"&nbsp;</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554918709.png" style="width: 625px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: left;">1: Thông tin User cũ sẽ bàn giao hồ sơ</li>
+		<li style="text-align: left;">2: Lựa chọn User được bàn giao hồ sơ</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566555188346.png" style="width: 623px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p>
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li>3: Click check nếu bạn muốn xóa nhân viên cũ vĩnh viễn</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<h4>
+	<br>
+</h4>
+
+<h4><strong style="color: #F17029;">5. Tạm dừng hoạt động cho người dùng</strong></h4>
+
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Click chọn người dùng muốn tạm dừng hoạt động</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566785851682.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Trong màn hình detail của User, rê chuột vào field <strong>"Tình trạng"</strong>, icon&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786046015.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success">&nbsp;hiện lên, click vào để Sửa tình trạng hoạt động</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786183649.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Hệ thống hiển thị Option để lựa chọn loại tình trạng, click vào Option, sau đó chọn <strong>"Không hoạt động"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786539584.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><u><strong>Bước 4:</strong></u> Click vào biểu tượng&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786692455.png" style="width: 29px;" class="fr-fic fr-dib" data-result="success">&nbsp;để lưu lại các thay đổi</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786659732.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">Nếu bạn muốn xem danh sách những người dùng tạm dừng hoạt động, thì thực hiện các bước sau đây:</li>
+	</ul>
+</blockquote>
+
+<p style="text-align: justify;"><strong><u>Bước 5:</u></strong> Click vào menu <strong>"Quản lý người dùng"</strong>, chọn <strong>"Người dùng"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786881749.png" style="width: 257px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 6:</u>&nbsp;</strong>Trong màn hình danh sách User, click vào tab <strong>"Người dùng ngừng hoạt động"&nbsp;</strong>để xem thông tin những người dùng đã tạm ngưng</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787054902.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">6. Khôi phục người dùng</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Click vào tab <strong>"Người dùng ngừng hoạt động"</strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787054902.png" data-result="success" class="fr-fic fr-dib" style="width: 720px; border: 1px solid rgb(176, 170, 170);"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:&nbsp;</u></strong>Click vào icon <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787410450.png" data-result="success" class="fr-fic fr-dii"> ở đầu dòng<strong>&nbsp;</strong>, sau đó chọn <strong>"Khôi phục người dùng"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787515379.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Popup xác nhận hiện lên, click <strong>"Yes"&nbsp;</strong>để đồng ý khôi phục User</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787605876.png" style="width: 605px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">7. Xóa vĩnh viễn người dùng</strong></h4>
+
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u>&nbsp;</strong>Để xóa vĩnh viễn người dùng, hãy chọn <strong>Người dùng bị tạm ngừng&nbsp;</strong>(bạn tham khảo lại <strong>Phần 4. Tạm dừng hoạt động cho người dùng</strong>)</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Click vào tab <strong>"Người dùng ngừng hoạt động"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787054902.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" data-result="success" class="fr-fic fr-dib"></strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u>&nbsp;</strong>Click vào icon&nbsp;<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787410450.png" data-result="success" class="fr-fic fr-dib">&nbsp;ở đầu dòng, sau đó chọn <strong>"Xóa"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566788125480.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><u><strong>Bước 3:</strong></u> Popup xác nhận hiện lên, click <strong>"Yes"</strong> để xác nhận xóa vĩnh viễn người dùng</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566788222853.png" style="width: 605px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>";s:12:"content_html";s:18014:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Người dùng là nhân viên trong tổ chức của bạn có thể đăng nhập vào tài khoản CRM của họ, truy cập thông tin và thực hiện các tác vụ theo các quyền đã được xác định cho họ. CRM hỗ trợ hai loại người dùng là Người dùng chuẩn và Người dùng quản trị.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><em><strong style="color:#A90702;"><u>Chú thích:</u></strong></em><strong><em> Chỉ người dùng quản trị mới có đặc quyền truy cập trang cài đặt và thêm người dùng mới vào CRM.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p>Click chuột vào biểu tượng <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566550921399.png" data-result="success" class="fr-fic fr-dib"> góc phải phía trên của màn hình, sau đó chọn <strong>“Quản lý người dùng”</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566468791953.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success">
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">1. Tạo mới người dùng</strong></h4>
+<p><strong><u>Bước 1:</u> </strong>Click button <strong>"Thêm người dùng"</strong></p>
+<p>
+    <br>
+</p>
+<div style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566469071358.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></div>
+<p>
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u> </strong>Nhập thông tin username, mật khẩu, email,… Sau đó click button <strong>"Lưu"</strong> để tiến hành tạo mới tài khoản</p>
+<p>
+    <br>
+</p>
+<p style="text-align: left;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566469428465.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u></strong> Những ô có tích dấu “<strong style="color:red;">*</strong>” là những ô bắt buộc nhập thông tin.</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">Bạn có thể chỉnh sửa lại thông tin người dùng bằng click vào Button <strong>Sửa.</strong>
+</li>
+        <li style="text-align: justify;">Các thông tin chi tiết khác có thể điền bởi người dùng tương ứng sau khi đăng nhập vào hệ thống.</li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Thay đổi tên người dùng</strong></h4>
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Trong màn hình danh sách User, chọn vào biểu tượng <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554221014.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">ở đầu dòng User, click vào <strong>"Đổi tên truy cập"</strong></p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566784728897.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Tại màn hình Popup thay đổi tên truy cập, nhập tên truy cập mới và mật khẩu, sau đó click button <strong>"Lưu" </strong>để hoàn tất</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566784854712.png" style="width: 611px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Thay đổi mật khẩu người dùng</strong></h4>
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Trong màn hình danh sách User, chọn vào biểu tượng <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554221014.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">ở đầu dòng User, click vào <strong>"Đổi mật khẩu"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566789004930.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Popup <strong>"Đổi mật khẩu"</strong> hiện lên, tiến hành nhập mật khẩu mới, sau đó click button <strong>"Lưu"</strong> để lưu lại</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566789130214.png" style="width: 541px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">4. Thay đổi quyền quản lý</strong></h4>
+<p><strong style="color: #057BC3;">     4.1. Cung cấp quyền sở hữu</strong></p>
+<p style="text-align: justify;"><u><strong>Bước 1:</strong></u> Click vào icon <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566550853146.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success"> chọn <strong>"Đổi người quản lý"</strong>.</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566551038493.png" style="width: 611px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u> </strong>Tại màn hình Popup, lựa chọn user bạn muốn chuyển quyền sở hữu</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566551205371.png" style="width: 598px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u> </strong>User được chuyển quyền quản lý phải được cấp quyền <strong>"Quản trị hệ thống"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566552525272.png" style="width: 368px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Click <strong>"Lưu" </strong>để hoàn tất.</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p><strong style="color: #057BC3;">     4.2. Chuyển giao dữ liệu cho nhân viên</strong></p>
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Trong màn hình danh sách User, chọn vào biểu tượng <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554221014.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">đầu dòng User có quyền quản lý (đã nghỉ việc), sau đó chọn <strong>"Xóa"</strong></p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554334734.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Popup cảnh báo hiện lên, bạn chọn <strong>"Yes" </strong>để tiếp tục thực hiện Xóa User</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554508185.png" style="width: 541px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Popup <strong>"Chuyển đổi hồ sơ" </strong>hiện lên, nhập các thông tin, sau đó click button <strong>"Lưu" </strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566554918709.png" style="width: 625px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: left;">1: Thông tin User cũ sẽ bàn giao hồ sơ</li>
+        <li style="text-align: left;">2: Lựa chọn User được bàn giao hồ sơ</li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566555188346.png" style="width: 623px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p>
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li>3: Click check nếu bạn muốn xóa nhân viên cũ vĩnh viễn</li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<h4>
+    <br>
+</h4>
+<h4><strong style="color: #F17029;">5. Tạm dừng hoạt động cho người dùng</strong></h4>
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Click chọn người dùng muốn tạm dừng hoạt động</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: justify;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566785851682.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Trong màn hình detail của User, rê chuột vào field <strong>"Tình trạng"</strong>, icon <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786046015.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success"> hiện lên, click vào để Sửa tình trạng hoạt động</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786183649.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Hệ thống hiển thị Option để lựa chọn loại tình trạng, click vào Option, sau đó chọn <strong>"Không hoạt động"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786539584.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong>
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><u><strong>Bước 4:</strong></u> Click vào biểu tượng <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786692455.png" style="width: 29px;" class="fr-fic fr-dib" data-result="success"> để lưu lại các thay đổi</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786659732.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">Nếu bạn muốn xem danh sách những người dùng tạm dừng hoạt động, thì thực hiện các bước sau đây:</li>
+    </ul>
+</blockquote>
+<p style="text-align: justify;"><strong><u>Bước 5:</u></strong> Click vào menu <strong>"Quản lý người dùng"</strong>, chọn <strong>"Người dùng"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566786881749.png" style="width: 257px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 6:</u> </strong>Trong màn hình danh sách User, click vào tab <strong>"Người dùng ngừng hoạt động" </strong>để xem thông tin những người dùng đã tạm ngưng</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787054902.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">6. Khôi phục người dùng</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Click vào tab <strong>"Người dùng ngừng hoạt động"</strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787054902.png" data-result="success" class="fr-fic fr-dib" style="width: 720px; border: 1px solid rgb(176, 170, 170);"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2: </u></strong>Click vào icon <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787410450.png" data-result="success" class="fr-fic fr-dii"> ở đầu dòng<strong> </strong>, sau đó chọn <strong>"Khôi phục người dùng"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787515379.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Popup xác nhận hiện lên, click <strong>"Yes" </strong>để đồng ý khôi phục User</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787605876.png" style="width: 605px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">7. Xóa vĩnh viễn người dùng</strong></h4>
+<p style="text-align: justify;"><strong style="color:red;"><u>Lưu ý:</u> </strong>Để xóa vĩnh viễn người dùng, hãy chọn <strong>Người dùng bị tạm ngừng </strong>(bạn tham khảo lại <strong>Phần 4. Tạm dừng hoạt động cho người dùng</strong>)</p>
+<p>
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Click vào tab <strong>"Người dùng ngừng hoạt động"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787054902.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" data-result="success" class="fr-fic fr-dib"></strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u> </strong>Click vào icon <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566787410450.png" data-result="success" class="fr-fic fr-dib"> ở đầu dòng, sau đó chọn <strong>"Xóa"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566788125480.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><u><strong>Bước 3:</strong></u> Popup xác nhận hiện lên, click <strong>"Yes"</strong> để xác nhận xóa vĩnh viễn người dùng</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566788222853.png" style="width: 605px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>";s:12:"published_at";s:19:"2019-08-22 10:33:20";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-22 10:14:06";s:10:"updated_at";s:19:"2019-08-26 03:25:57";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:3;s:8:"location";s:7:"default";}i:2;O:8:"stdClass":23:{s:2:"id";i:197;s:7:"user_id";i:1;s:5:"title";s:46:"Hướng dẫn thay đổi thông tin Công ty";s:4:"slug";s:36:"huong-dan-thay-doi-thong-tin-cong-ty";s:7:"excerpt";s:0:"";s:7:"content";s:3403:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Chi tiết Công ty cho phép bạn cá nhân hóa CRM của bạn bằng cách tải lên biểu trưng và chi tiết công ty của bạn. Thông tin được sử dụng trong khi tạo Hóa đơn, Báo giá và Đơn đặt hàng.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Click chuột vào biểu tượng cài đặt&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566471833979.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success">&nbsp;góc phải phía trên của màn hình.</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525355814.png" style="width: 396px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Chọn <strong>“Cấu hình hệ thống”&nbsp;</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525411853.png" style="width: 395px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Click vào <strong>"Thiết lập thông tin"</strong> (1), sau đó click vào <strong>"Thông tin công ty"</strong> (2)</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525535947.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p><strong><u>Bước 4:</u></strong> Click <strong>"Sửa"</strong> để thay đổi thông tin công ty</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525624736.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 5:</u></strong> Thay đổi các trường thông tin, sau đó click button <strong>“Lưu”</strong> để hoàn thành.</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525681106.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -&nbsp;</em></p>
+
+<p style="text-align: right;">
+	<br>
+</p>
+
+<p style="text-align: right;">
+	<br>
+</p>
+
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:3319:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Chi tiết Công ty cho phép bạn cá nhân hóa CRM của bạn bằng cách tải lên biểu trưng và chi tiết công ty của bạn. Thông tin được sử dụng trong khi tạo Hóa đơn, Báo giá và Đơn đặt hàng.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 1:</u></strong> Click chuột vào biểu tượng cài đặt <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566471833979.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success"> góc phải phía trên của màn hình.</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525355814.png" style="width: 396px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Chọn <strong>“Cấu hình hệ thống” </strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525411853.png" style="width: 395px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Click vào <strong>"Thiết lập thông tin"</strong> (1), sau đó click vào <strong>"Thông tin công ty"</strong> (2)</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525535947.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p><strong><u>Bước 4:</u></strong> Click <strong>"Sửa"</strong> để thay đổi thông tin công ty</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525624736.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 5:</u></strong> Thay đổi các trường thông tin, sau đó click button <strong>“Lưu”</strong> để hoàn thành.</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525681106.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công - </em></p>
+<p style="text-align: right;">
+    <br>
+</p>
+<p style="text-align: right;">
+    <br>
+</p>
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-22 10:55:26";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-22 10:55:27";s:10:"updated_at";s:19:"2019-08-23 02:11:38";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:1;s:8:"location";s:7:"default";}i:3;O:8:"stdClass":23:{s:2:"id";i:198;s:7:"user_id";i:1;s:5:"title";s:45:"Thao tác tại Giá trị trường Dropdown";s:4:"slug";s:36:"thao-tac-tai-gia-tri-truong-dropdown";s:7:"excerpt";s:0:"";s:7:"content";s:8202:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Danh sách chọn là một trường Dropdown với danh sách các tùy chọn có sẵn, trong đó, chỉ có một tùy chọn có thể được chọn.</em></strong></p>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 1:</u></strong> Click chuột vào biểu tượng cài đặt&nbsp;<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566471833979.png" data-result="success" class="fr-fic fr-dib">&nbsp;góc phải phía trên của màn hình.</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525355814.png" data-result="success" class="fr-fic fr-dib" style="width: 397px; border: 1px solid rgb(176, 170, 170);">&nbsp;</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Chọn <strong>“Cấu hình hệ thống”&nbsp;</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525411853.png" style="width: 395px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Chọn <strong>"Thiết lập thông tin"</strong> (1), sau đó chọn <strong>"Giá trị trường Dropdown"&nbsp;</strong>(2)</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566526808255.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 4:</u></strong> Tại đây, bạn chọn <strong>Module&nbsp;</strong>và <strong>Dropdown&nbsp;</strong>muốn thao tác</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566527261033.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 5:</u>&nbsp;</strong>Sau khi thực hiện xong bước 4, bạn có thể:</p>
+
+<ul>
+	<li style="text-align: left;">Thêm 1 giá trị (1)</li>
+	<li style="text-align: left;">Chỉnh sửa giá trị (2)</li>
+	<li style="text-align: left;">Xóa giá trị (3)</li>
+</ul>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566527574493.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">1. Thêm 1 giá trị vào Dropdown</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Click vào button <strong>"Thêm giá trị"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566527925558.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Nhập các thông tin phù hợp, sau đó click button <strong>"Lưu"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566528412644.png" style="width: 603px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">1: Giá trị cần thêm vào Dropdown. <strong style="color:red;"><u>Lưu ý:</u></strong> ở field này chỉ được nhập tiếng Anh hoặc tiếng Việt không dấu và khoảng cách được thay bởi dấu "_". Ví dụ: tiếng Việt: tiep_thi, tiếng Anh: marketing.</li>
+		<li style="text-align: justify;">2: Giá trị hiển thị ở giao diện tiếng Anh.</li>
+		<li style="text-align: justify;">3: Giá trị hiển thị ở giao diện tiếng Việt.</li>
+		<li style="text-align: justify;">4: CRM phần quyền hiển thị giá trị cho trường dropdown đối với vai trò theo người dùng, chỉ những người dùng có vai trò chỉ định mới có thể truy cập và sử dụng các giá trị trong dropdown.</li>
+		<li style="text-align: justify;">5: Chọn màu sắc hiển thị theo giá trị trong dropdown nhằm làm nổi bật các giá trị được chọn.</li>
+	</ul>
+</blockquote>
+
+<h4>
+	<br>
+</h4>
+
+<h4>
+	<br>
+</h4>
+
+<h4><strong style="color: #F17029;">2. Chỉnh sửa 1 giá trị trong Dropdown</strong></h4>
+
+<p><u><em>Ví dụ:</em></u><em>&nbsp;Chỉnh sửa giá trị "Gọi điện"&nbsp;</em></p>
+
+<p><strong><u>Bước 1:</u></strong> Chọn vào icon&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529242404.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success">&nbsp;để chỉnh sửa giá trị</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529178347.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Tiến hành nhập các thông tin cần chỉnh sửa, sau đó click button <strong>"Lưu"</strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529429097.png" style="width: 560px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">3. Xóa 1 giá trị trong Dropdown</strong></h4>
+
+<p><u><em>Ví dụ:</em></u><em>&nbsp;Xóa giá trị "Gọi điện"</em></p>
+
+<p><strong><u>Bước 1:</u></strong> Click vào icon&nbsp;<img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529756695.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success">&nbsp;để xóa giá trị</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529700353.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: justify;"><u><strong>Bước 2:</strong></u> Khi xóa giá trị cũ trong trường Dropdown, CRM sẽ yêu cầu bạn thay thế bằng giá trị mới, chọn giá trị thay thế, sau đó click button <strong>"Xóa"&nbsp;</strong>để hoàn thành</p>
+
+<p style="text-align: justify;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529963474.png" style="width: 563px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -&nbsp;</em></p>
+
+<p style="text-align: right;">
+	<br>
+</p>
+
+<p style="text-align: right;">
+	<br>
+</p>
+
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"content_html";s:8009:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Danh sách chọn là một trường Dropdown với danh sách các tùy chọn có sẵn, trong đó, chỉ có một tùy chọn có thể được chọn.</em></strong></p>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 1:</u></strong> Click chuột vào biểu tượng cài đặt <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566471833979.png" data-result="success" class="fr-fic fr-dib"> góc phải phía trên của màn hình.</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525355814.png" data-result="success" class="fr-fic fr-dib" style="width: 397px; border: 1px solid rgb(176, 170, 170);"> </p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Chọn <strong>“Cấu hình hệ thống” </strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525411853.png" style="width: 395px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 3:</u></strong> Chọn <strong>"Thiết lập thông tin"</strong> (1), sau đó chọn <strong>"Giá trị trường Dropdown" </strong>(2)</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566526808255.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 4:</u></strong> Tại đây, bạn chọn <strong>Module </strong>và <strong>Dropdown </strong>muốn thao tác</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566527261033.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 5:</u> </strong>Sau khi thực hiện xong bước 4, bạn có thể:</p>
+<ul>
+    <li style="text-align: left;">Thêm 1 giá trị (1)</li>
+    <li style="text-align: left;">Chỉnh sửa giá trị (2)</li>
+    <li style="text-align: left;">Xóa giá trị (3)</li>
+</ul>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566527574493.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">1. Thêm 1 giá trị vào Dropdown</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Click vào button <strong>"Thêm giá trị"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566527925558.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u></strong> Nhập các thông tin phù hợp, sau đó click button <strong>"Lưu"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566528412644.png" style="width: 603px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">1: Giá trị cần thêm vào Dropdown. <strong style="color:red;"><u>Lưu ý:</u></strong> ở field này chỉ được nhập tiếng Anh hoặc tiếng Việt không dấu và khoảng cách được thay bởi dấu "_". Ví dụ: tiếng Việt: tiep_thi, tiếng Anh: marketing.</li>
+        <li style="text-align: justify;">2: Giá trị hiển thị ở giao diện tiếng Anh.</li>
+        <li style="text-align: justify;">3: Giá trị hiển thị ở giao diện tiếng Việt.</li>
+        <li style="text-align: justify;">4: CRM phần quyền hiển thị giá trị cho trường dropdown đối với vai trò theo người dùng, chỉ những người dùng có vai trò chỉ định mới có thể truy cập và sử dụng các giá trị trong dropdown.</li>
+        <li style="text-align: justify;">5: Chọn màu sắc hiển thị theo giá trị trong dropdown nhằm làm nổi bật các giá trị được chọn.</li>
+    </ul>
+</blockquote>
+<h4>
+    <br>
+</h4>
+<h4>
+    <br>
+</h4>
+<h4><strong style="color: #F17029;">2. Chỉnh sửa 1 giá trị trong Dropdown</strong></h4>
+<p><u><em>Ví dụ:</em></u><em> Chỉnh sửa giá trị "Gọi điện" </em></p>
+<p><strong><u>Bước 1:</u></strong> Chọn vào icon <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529242404.png" style="width: 16px;" class="fr-fic fr-dib" data-result="success"> để chỉnh sửa giá trị</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529178347.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 2:</u></strong> Tiến hành nhập các thông tin cần chỉnh sửa, sau đó click button <strong>"Lưu"</strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529429097.png" style="width: 560px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">3. Xóa 1 giá trị trong Dropdown</strong></h4>
+<p><u><em>Ví dụ:</em></u><em> Xóa giá trị "Gọi điện"</em></p>
+<p><strong><u>Bước 1:</u></strong> Click vào icon <img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529756695.png" style="width: 20px;" class="fr-fic fr-dib" data-result="success"> để xóa giá trị</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529700353.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: justify;"><u><strong>Bước 2:</strong></u> Khi xóa giá trị cũ trong trường Dropdown, CRM sẽ yêu cầu bạn thay thế bằng giá trị mới, chọn giá trị thay thế, sau đó click button <strong>"Xóa" </strong>để hoàn thành</p>
+<p style="text-align: justify;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566529963474.png" style="width: 563px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công - </em></p>
+<p style="text-align: right;">
+    <br>
+</p>
+<p style="text-align: right;">
+    <br>
+</p>
+<p style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>";s:12:"published_at";s:19:"2019-08-23 02:25:06";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-23 02:25:10";s:10:"updated_at";s:19:"2019-08-23 03:17:16";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:2;s:8:"location";s:7:"default";}i:4;O:8:"stdClass":23:{s:2:"id";i:199;s:7:"user_id";i:1;s:5:"title";s:51:"Hướng dẫn thao tác trên tính năng Workflow";s:4:"slug";s:42:"huong-dan-thao-tac-tren-tinh-nang-workflow";s:7:"excerpt";s:0:"";s:7:"content";s:11614:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><em><strong>Workflow là một phần mềm cho phép tạo ra những quy trình công việc của riêng bạn nhằm giải quyết nhiều vấn đề khác nhau. Nếu bạn đã từng dùng Automator trên OS X hay Tasker trên Android thì Workflow cũng tương tự như vậy. Với Workflow trên phần mềm&nbsp;</strong></em><strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong></em></strong><em><strong>&nbsp;CRM, bạn có thể tạo ra những tác vụ tự động hóa.</strong></em></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết này sẽ hướng dẫn các bạn sử dụng tính năng này thông qua những ví dụ cơ bản. Khi nắm được nguyên lý hoạt động và cách tạo Workflow rồi thì bạn có thể tự mình làm ra những tác vụ nhằm giải quyết nhu cầu của chính bạn.</em></strong></p>
+
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;"><u><em>Bài toán ví dụ:</em></u><em>&nbsp;Tạo <strong><em>Workflow&nbsp;</em></strong>cho module Công ty<strong><em>&nbsp;</em></strong>với&nbsp;điều kiện: nếu Ngành nghề của Công ty là Ngân hàng thì <strong><em>Workflow&nbsp;</em></strong>chạy tác vụ tự động cho Số nhân viên = 100.</em></li>
+	</ul>
+</blockquote>
+
+<h4 style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566533982462.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></h4>
+
+<p>
+	<br>
+</p>
+
+<p>
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">1. Tạo mới Workflow</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Click chuột vào biểu tượng cài đặt&nbsp;<img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566471833979.png" data-result="success" class="fr-fic fr-dib">&nbsp;góc phải phía trên của màn hình.</p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525355814.png" data-result="success" class="fr-fic fr-dib" style="width: 397px; border: 1px solid rgb(176, 170, 170);">&nbsp;</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p><strong><u>Bước 2:</u></strong> Chọn <strong>“Cấu hình hệ thống”&nbsp;</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525411853.png" style="width: 395px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u>&nbsp;</strong>Chọn <strong>"Tự động hóa"&nbsp;</strong>(1), sau đó chọn <strong>"Workflow"&nbsp;</strong>(2)</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566533246890.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Click vào button <strong>"Thêm Workflow"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566533374943.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><u><strong>Bước 5:</strong></u> Nhập phần thông tin cơ bản</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566534203348.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">1: Tên <strong>Workflow</strong>, nên đặt đúng với công việc tự động hóa</li>
+		<li style="text-align: justify;">2: Mô tả công việc tự động hóa một cách cụ thể</li>
+		<li style="text-align: justify;">3: Chọn module muốn áp dụng <strong>Workflow</strong></li>
+		<li style="text-align: justify;">4: Tình trạng của <strong>Workflow</strong></li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: justify;"><strong><u>Bước 6:</u>&nbsp;</strong>Nhập thông tin <strong>Kích hoạt Workflow&nbsp;</strong>và <strong>Điều kiện của Workflow</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566544303926.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<blockquote>
+
+	<ul>
+		<li style="text-align: justify;">1: Sự kiện để kích hoạt Workflow</li>
+		<li style="text-align: justify;">2: Chu kì lặp lại tác vụ</li>
+		<li style="text-align: justify;">3: Điều kiện “<strong>Và</strong>”: Thỏa tất cả các điều kiện thì mới cho ra kết quả. Điều kiện “<strong>Hoặc</strong> ”: Chỉ cần thỏa 1 trong các điều kiện thì cho ra kết quả</li>
+	</ul>
+</blockquote>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 7:</u></strong> Thêm nhiệm vụ bằng cách click vào button <strong>"Thêm nhiệm vụ"</strong>, chọn loại nhiệm vụ phù hợp</p>
+
+<p><u><em>Ví dụ:</em></u><em>&nbsp;Chọn option <strong>"Cập nhật trường dữ liệu"</strong></em></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566544704708.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 8:</u></strong> Màn hình Thêm nhiệm vụ hiện lên, tiến hành nhập thông tin nhiệm vụ, sau đó click button <strong>"Lưu"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566545196734.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 9:</u></strong> Kết quả sau khi tạo thành công Nhiệm vụ, click button <strong>"Lưu"&nbsp;</strong>để lưu lại thông tin <strong>Workflow</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566545478249.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<ul>
+	<li style="text-align: left;">Mỗi nhiệm vụ có 2 trạng thái: <strong>ON:</strong> nhiệm vụ đang kích hoạt, <strong>OFF:&nbsp;</strong>nhiệm vụ dừng kích hoạt</li>
+</ul>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546029343.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 10:</u></strong> Kết quả sau khi tạo thành công 1 <strong>Workflow</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566545754584.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<h4><strong style="color: #F17029;">2. Chạy thực nghiệm Workflow</strong></h4>
+
+<p><strong><u>Bước 1:</u></strong> Vào menu <strong>"Bán hàng"</strong>, chọn module <strong>"Công ty"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546403532.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 2:</u>&nbsp;</strong>Click button <strong>"Thêm công ty"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546535357.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Nhập các thông tin cần thiết, sau đó click button <strong>"Lưu"</strong></p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546813075.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Field <strong>"Ngành nghề"</strong> chọn giá trị là <strong>"Ngân hàng"</strong></p>
+
+<p>
+	<br>
+</p>
+
+<p><strong><u>Bước 4:</u>&nbsp;</strong>Kết quả sau khi thực nghiệm thành công <strong>Bài toán: <em>"Công ty có ngành nghề là Ngân hàng thì số nhân viên là 100"</em></strong></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+
+<p style="text-align: center;"><strong><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566547282906.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></em></strong>
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p style="text-align: left;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+
+<p dir="ltr" style="text-align: right;"><em>&nbsp;</em></p>
+
+<p dir="ltr" style="text-align: right;">
+	<br>
+</p>
+
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>
+
+<p style="text-align: center;">
+	<br>
+</p>";s:12:"content_html";s:11364:"<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><em><strong>Workflow là một phần mềm cho phép tạo ra những quy trình công việc của riêng bạn nhằm giải quyết nhiều vấn đề khác nhau. Nếu bạn đã từng dùng Automator trên OS X hay Tasker trên Android thì Workflow cũng tương tự như vậy. Với Workflow trên phần mềm </strong></em><strong><em><strong style="color:#057BC3;">Cloud</strong><strong style="color:#F17029;">Pro</strong></em></strong><em><strong> CRM, bạn có thể tạo ra những tác vụ tự động hóa.</strong></em></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;"><strong><em>Trong bài viết này sẽ hướng dẫn các bạn sử dụng tính năng này thông qua những ví dụ cơ bản. Khi nắm được nguyên lý hoạt động và cách tạo Workflow rồi thì bạn có thể tự mình làm ra những tác vụ nhằm giải quyết nhu cầu của chính bạn.</em></strong></p>
+<p style="font-family: inherit; font-size: 20px; color: rgb(152, 5, 163); text-align: justify;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">
+<u><em>Bài toán ví dụ:</em></u><em> Tạo <strong><em>Workflow </em></strong>cho module Công ty<strong><em> </em></strong>với điều kiện: nếu Ngành nghề của Công ty là Ngân hàng thì <strong><em>Workflow </em></strong>chạy tác vụ tự động cho Số nhân viên = 100.</em>
+</li>
+    </ul>
+</blockquote>
+<h4 style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566533982462.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></h4>
+<p>
+    <br>
+</p>
+<p>
+    <br>
+</p>
+<h4><strong style="color: #F17029;">1. Tạo mới Workflow</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Click chuột vào biểu tượng cài đặt <img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566471833979.png" data-result="success" class="fr-fic fr-dib"> góc phải phía trên của màn hình.</p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><img data-fr-image-pasted="true" src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525355814.png" data-result="success" class="fr-fic fr-dib" style="width: 397px; border: 1px solid rgb(176, 170, 170);"> </p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p><strong><u>Bước 2:</u></strong> Chọn <strong>“Cấu hình hệ thống” </strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566525411853.png" style="width: 395px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u> </strong>Chọn <strong>"Tự động hóa" </strong>(1), sau đó chọn <strong>"Workflow" </strong>(2)</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566533246890.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 4:</u></strong> Click vào button <strong>"Thêm Workflow"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566533374943.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><u><strong>Bước 5:</strong></u> Nhập phần thông tin cơ bản</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566534203348.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">1: Tên <strong>Workflow</strong>, nên đặt đúng với công việc tự động hóa</li>
+        <li style="text-align: justify;">2: Mô tả công việc tự động hóa một cách cụ thể</li>
+        <li style="text-align: justify;">3: Chọn module muốn áp dụng <strong>Workflow</strong>
+</li>
+        <li style="text-align: justify;">4: Tình trạng của <strong>Workflow</strong>
+</li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<p style="text-align: justify;"><strong><u>Bước 6:</u> </strong>Nhập thông tin <strong>Kích hoạt Workflow </strong>và <strong>Điều kiện của Workflow</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566544303926.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<blockquote>
+
+    <ul>
+        <li style="text-align: justify;">1: Sự kiện để kích hoạt Workflow</li>
+        <li style="text-align: justify;">2: Chu kì lặp lại tác vụ</li>
+        <li style="text-align: justify;">3: Điều kiện “<strong>Và</strong>”: Thỏa tất cả các điều kiện thì mới cho ra kết quả. Điều kiện “<strong>Hoặc</strong> ”: Chỉ cần thỏa 1 trong các điều kiện thì cho ra kết quả</li>
+    </ul>
+</blockquote>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 7:</u></strong> Thêm nhiệm vụ bằng cách click vào button <strong>"Thêm nhiệm vụ"</strong>, chọn loại nhiệm vụ phù hợp</p>
+<p><u><em>Ví dụ:</em></u><em> Chọn option <strong>"Cập nhật trường dữ liệu"</strong></em></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566544704708.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 8:</u></strong> Màn hình Thêm nhiệm vụ hiện lên, tiến hành nhập thông tin nhiệm vụ, sau đó click button <strong>"Lưu"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566545196734.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 9:</u></strong> Kết quả sau khi tạo thành công Nhiệm vụ, click button <strong>"Lưu" </strong>để lưu lại thông tin <strong>Workflow</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566545478249.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<ul>
+    <li style="text-align: left;">Mỗi nhiệm vụ có 2 trạng thái: <strong>ON:</strong> nhiệm vụ đang kích hoạt, <strong>OFF: </strong>nhiệm vụ dừng kích hoạt</li>
+</ul>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546029343.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 10:</u></strong> Kết quả sau khi tạo thành công 1 <strong>Workflow</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566545754584.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;">
+    <br>
+</p>
+<h4><strong style="color: #F17029;">2. Chạy thực nghiệm Workflow</strong></h4>
+<p><strong><u>Bước 1:</u></strong> Vào menu <strong>"Bán hàng"</strong>, chọn module <strong>"Công ty"</strong></p>
+<p>
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546403532.png" style="width: 375px;" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 2:</u> </strong>Click button <strong>"Thêm công ty"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546535357.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong><u>Bước 3:</u></strong> Nhập các thông tin cần thiết, sau đó click button <strong>"Lưu"</strong></p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566546813075.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: left;"><strong style="color:red;"><u>Lưu ý:</u></strong> Field <strong>"Ngành nghề"</strong> chọn giá trị là <strong>"Ngân hàng"</strong></p>
+<p>
+    <br>
+</p>
+<p><strong><u>Bước 4:</u> </strong>Kết quả sau khi thực nghiệm thành công <strong>Bài toán: <em>"Công ty có ngành nghề là Ngân hàng thì số nhân viên là 100"</em></strong></p>
+<p style="text-align: center;">
+    <br>
+</p>
+<p style="text-align: center;"><strong><em><img src="https://support.cloudpro.vn/storage/app/media/uploaded-files/1566547282906.png" style="width: 720px; border: 1px solid rgb(176, 170, 170);" class="fr-fic fr-dib" data-result="success"></em></strong>
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p style="text-align: left;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em>- Chúc các bạn thành công -</em></p>
+<p dir="ltr" style="text-align: right;"><em> </em></p>
+<p dir="ltr" style="text-align: right;">
+    <br>
+</p>
+<p dir="ltr" style="text-align: right;"><em><strong>OnlineCRM @2019</strong></em></p>
+<p style="text-align: center;">
+    <br>
+</p>";s:12:"published_at";s:19:"2019-08-23 04:35:19";s:9:"published";i:1;s:10:"created_at";s:19:"2019-08-23 04:35:18";s:10:"updated_at";s:19:"2019-08-23 08:08:19";s:8:"metadata";N;s:14:"powerseo_title";s:0:"";s:20:"powerseo_description";s:0:"";s:17:"powerseo_keywords";s:0:"";s:22:"powerseo_canonical_url";s:0:"";s:21:"powerseo_redirect_url";s:0:"";s:20:"powerseo_robot_index";s:5:"index";s:21:"powerseo_robot_follow";s:6:"follow";s:5:"image";s:0:"";s:6:"iframe";s:0:"";s:7:"ordinal";i:3;s:8:"location";s:7:"default";}}
